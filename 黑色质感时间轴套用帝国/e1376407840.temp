@@ -1,0 +1,3110 @@
+默认模板组 ,-- 7.0,GBK<!---ecms.temp--->1<!---ecms.field--->子栏目导航标签模板<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]<!--list.var1-->[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><li><a href="[!--classurl--]">[!--classname--]</a></li><!---ecms.field--->0<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->2<!---ecms.field--->标题列表模板<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]<!--list.var1-->[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><li><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a></li><!---ecms.field--->0<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->3<!---ecms.field--->推荐文章<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]
+
+          <li><span><strong>1</strong></span><!--list.var1--></li>
+          <li><span><strong>2</strong></span><!--list.var2--></li>
+          <li><span><strong>3</strong></span><!--list.var3--></li>
+          <li><span><strong>4</strong></span><!--list.var4--></li>
+          <li><span><strong>5</strong></span><!--list.var5--></li>
+          <li><span><strong>6</strong></span><!--list.var6--></li>
+          <li><span><strong>7</strong></span><!--list.var7--></li>
+          <li><span><strong>8</strong></span><!--list.var8--></li>
+          <li><span><strong>9</strong></span><!--list.var9--></li>
+
+[!--empirenews.listtemp--]
+<!---ecms.field--->m-d<!---ecms.field---><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a>
+          <!---ecms.field--->0<!---ecms.field--->9<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->4<!---ecms.field--->头条相关<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]<!--list.var1-->　<!--list.var2-->[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><a href="[!--titleurl--]" title="[!--oldtitle--]">·[!--title--]</a><!---ecms.field--->0<!---ecms.field--->2<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->5<!---ecms.field--->图片+标题+简介<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]
+<!--list.var1-->
+[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><li>
+        <div class="arrow_box">
+          <div class="ti"></div>
+          <div class="ci"></div>
+          <h2 class="title"><a href="/" target="_blank"><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a></a></h2>
+          <ul class="textinfo">
+            <a href="[!--titleurl--]" target="_blank"><img src="[!--titlepic--]" alt="[!--oldtitle--]" ></a>
+            <p>[!--smalltext--]</p>
+          </ul>
+          <ul class="details">
+            <li class="likes"><a href="#">[!--onclick--]</a></li>
+            <li class="comments"><a href="#">[!--plnum--]</a></li>
+            <li class="icon-time"><a href="#">[!--newstime--]</a></li>
+          </ul>
+        </div>
+        <!--arrow_box end--> 
+      </li><!---ecms.field--->0<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->7<!---ecms.field--->循环子栏目标签<!---ecms.field--->1<!---ecms.field---><h3>[!--the.classname--]</h3>
+[!--empirenews.listtemp--]
+<!--list.var1-->
+[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d<!---ecms.field---><li><span>[!--newstime--]</span><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a></li><!---ecms.field--->0<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->8<!---ecms.field--->头条标题<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]
+<!--list.var1-->
+[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><strong><a href="[!--titleurl--]">[!--title--]</a></strong>
+<p>　　[!--smalltext--]</p><!---ecms.field--->150<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->9<!---ecms.field--->标题+软件简介<!---ecms.field--->2<!---ecms.field--->[!--empirenews.listtemp--]<!--list.var1-->[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><li><p><strong><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a></strong>[!--softsay--]</p></li><!---ecms.field--->50<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->10<!---ecms.field--->热门点击<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]<!--list.var1-->[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><li><span><a href="[!--this.classlink--]" target="_blank">[!--this.classname--]</a></span><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a></li><!---ecms.field--->0<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->11<!---ecms.field--->图片集分页模板<!---ecms.field--->1<!---ecms.field---><script type="text/javascript">
+        var photosr=new Array();
+        [!--photor--]
+        function GotoPhPage(page){
+                page=parseInt(page);
+                document.getElementById("showpagephoto").innerHTML=photosr[page];
+                document.ViewPhotoForm.thisphpage.value=page;
+                document.ViewPhotoForm.tothephpage.options[page-1].selected=true;
+        }
+        //上一页
+        function PriPhPage(){
+                var thispage=parseInt(document.ViewPhotoForm.thisphpage.value);
+                var num=photosr.length;
+                if(thispage<=1)
+                {
+                        return false;
+                }
+                GotoPhPage(thispage-1);
+        }
+        //下一页
+        function NextPhPage(){
+                var thispage=parseInt(document.ViewPhotoForm.thisphpage.value);
+                var num=photosr.length;
+                if(thispage>=num-1)
+                {
+                        return false;
+                }
+                GotoPhPage(thispage+1);
+        }
+        function PhAutoPlay(){
+                var sec=parseInt(document.ViewPhotoForm.autoplaysec.value);
+                var i;
+                var num=photosr.length;
+                for(i=1;i<=sec;i++)
+                {
+                        if(document.ViewPhotoForm.autophstop.value==0)
+                        {
+                                window.setTimeout("PhAutoPlayExe("+i+","+sec+")",i*1000);
+                        }
+                        else
+                        {
+                                break;
+                        }
+                }
+        }
+        function PhAutoPlayExe(num,sec){
+                var t;
+                if(document.ViewPhotoForm.autophstop.value==1)
+                {
+                        return "";
+                }
+                if(num==sec) 
+                {
+                        t=NextPhPage();
+                        if(t==false)
+                        {
+                                GotoPhPage(1);
+                        }
+                        PhAutoPlay();
+                } 
+        }
+        </script>
+        
+<table width="100%" border="0" align="center" cellpadding="3" cellspacing="1">
+  <tr> 
+    <td height="25" id="showpagephoto" align="center"> 
+      <!--list.var1-->
+    </td>
+  </tr>
+  <form name="ViewPhotoForm" id="ViewPhotoForm" method="POST" action="">
+    <tr> 
+      <td height="25"> <div align="center"> 
+          <input type="button" name="Submit" value="上一页" onclick="PriPhPage();">
+          &nbsp;&nbsp; 
+          <select name="tothephpage" onchange="GotoPhPage(this.options[this.selectedIndex].value)">
+            [!--select--]
+          </select>
+          &nbsp;&nbsp; 
+          <input type="button" name="Submit2" value="下一页" onclick="NextPhPage();">
+          <input name="thisphpage" type="hidden" value="1">
+        </div></td>
+    </tr>
+    <tr>
+      <td height="25"><div align="center">
+          <select name="autoplaysec">
+            <option value="1">1秒</option>
+            <option value="2">2秒</option>
+            <option value="3" selected>3秒</option>
+            <option value="4">4秒</option>
+            <option value="5">5秒</option>
+            <option value="6">6秒</option>
+            <option value="7">7秒</option>
+            <option value="8">8秒</option>
+            <option value="9">9秒</option>
+            <option value="10">10秒</option>
+          </select>
+                  <input name="autophstop" type="hidden" value="0">
+          <input type="button" name="Submit3" value="自动播放" onclick="document.ViewPhotoForm.autophstop.value=0;PhAutoPlay();">
+          &nbsp;<input type="button" name="Submit32" value="停止播放" onclick="document.ViewPhotoForm.autophstop.value=1;">
+        </div></td>
+    </tr>
+  </form>
+</table>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1">
+<tr><td>
+<marquee  behavior=alternate ONMOUSEOUT="this.scrollDelay=1" ONMOUSEOVER="this.scrollDelay=600"  scrollamount=1  SCROLLDELAY=1  border=0  scrolldelay=70  width="100%"  align=middle>
+        [!--smalldh--]
+</marquee>
+</td></tr></table><!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><a href='#ecms' onclick='NextPhPage();' title='点击进入下一张图片'><img src='[!--picurl--]' alt='[!--picname--]' border=1 class='photoresize'></a><br><span style='line-height=18pt'>[!--picname--]</span><!---ecms.field--->0<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->12<!---ecms.field--->栏目tabs导航<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]<!--list.var1-->[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><li><a href="[!--classurl--]">[!--classname--]</a></li><!---ecms.field--->0<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->13<!---ecms.field--->图文并茂<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]
+<!--list.var1--><p>伤不起</p></a></li>
+<!--list.var2--><p>感兴趣</p></a></li>
+<!--list.var3--><p>喜欢</p></a></li>
+[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><li><a href="[!--titleurl--]" target="_blank"><img src="[!--titlepic--]" alt="[!--oldtitle--]" >[!--title--]
+<!---ecms.field--->0<!---ecms.field--->3<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->14<!---ecms.field--->摄影作品<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]<!--list.var1-->[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><li><a href="[!--titleurl--]" target="_blank"><img src="[!--titlepic--]" alt="[!--oldtitle--]" ></a></li><!---ecms.field--->0<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->15<!---ecms.field--->列表页导航<!---ecms.field--->1<!---ecms.field--->[!--empirenews.listtemp--]<!--list.var1-->[!--empirenews.listtemp--]<!---ecms.field--->Y-m-d<!---ecms.field---><a href="[!--classurl--]">[!--classname--]</a><!---ecms.field--->0<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record---><!---ecms.temp--->1<!---ecms.field--->默认js模板<!---ecms.field--->[!--empirenews.listtemp--]<li><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a></li>[!--empirenews.listtemp--]<!---ecms.field--->0<!---ecms.field--->1<!---ecms.field--->m-d<!---ecms.field--->1<!---ecms.field--->0<!---ecms.field--->32<!---ecms.record---><!---ecms.temp--->1<!---ecms.field--->默认新闻列表模板<!---ecms.field---><!doctype html>
+<html>
+<head>
+<meta charset="gb2312">
+<title>[!--pagetitle--]</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/blog/css/styles.css" rel="stylesheet">
+<link href="[!--news.url--]skin/blog/css/view.css" rel="stylesheet">
+<!-- 返回顶部调用 begin -->
+<link href="[!--news.url--]skin/blog/css/lrtk.css" rel="stylesheet" />
+<script type="text/javascript" src="[!--news.url--]skin/blog/js/jquery.js"></script>
+<script type="text/javascript" src="[!--news.url--]skin/blog/js/js.js"></script>
+<!-- 返回顶部调用 end-->
+<!--[if lt IE 9]>
+<script src="[!--news.url--]skin/blog/js/modernizr.js"></script>
+<![endif]-->
+</head>
+<body>
+[!--temp.header--]
+<div id="mainbody">
+  <div class="blogs">
+    <div class="newlist">
+  <h2><span>
+[showclasstemp]'selfinfo',15,0,0[/showclasstemp]
+</span>您当前的位置：[!--newsnav--]</h2>
+     <ul>
+[!--empirenews.listtemp--]
+<!--list.var1-->
+[!--empirenews.listtemp--]
+  </ul>
+<div class="page">[!--show.listpage--]</div>
+</div>
+    <!--bloglist end-->
+<aside>
+<div class="search">
+       <form action="[!--news.url--]e/search/index.php" method="post" name="searchform" id="searchform" class="searchform" >
+          <input name="keyboard" type="text" value="Search" onfocus="this.value=''" onblur="this.value='Search'" id="keyboard" ><input type="hidden" name="show" value="title" />
+          <input type="hidden" name="tempid" value="1" /><input name="tbname" type="hidden" value="news">
+        </form>
+      </div>
+      <div class="sunnav">
+        <ul>
+[showclasstemp]'selfinfo',1,0,0[/showclasstemp]
+        </ul>
+      </div>
+[!--temp.r--]
+    </aside>
+  </div>
+  <!--blogs end--> 
+</div>
+[!--temp.footer--]<!---ecms.field--->0<!---ecms.field--->0<!---ecms.field---><p class="ptit"><b><a href="[!--titleurl--]" target="_blank" title="[!--oldtitle--]">[!--title--]</a></b></p>
+<p class="ptime">发布时间：[!--newstime--] 作者：[!--writer--]  分类：[!--this.classname--] </p>
+<a href="[!--titleurl--]" target="_blank" title="[!--oldtitle--]"><img src="[!--titlepic--]" class="imgdow" alt="[!--oldtitle--]"></a> <p class="pcon">[!--smalltext--] <a href="[!--titleurl--]" target="_blank" title="[!--oldtitle--]">详细信息</a></P>
+<div class="line"></div><!---ecms.field--->1<!---ecms.field--->1<!---ecms.field--->Y-m-d<!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->2<!---ecms.field--->默认下载列表模板<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="listpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>您当前的位置：[!--newsnav--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="3" class="down_list"><table bgcolor="#FFFFFF" width="100%" border="0" align="center" cellpadding="3" cellspacing="1" style="table-layout:  fixed;  word-wrap:  break-word">
+<tr align="center">
+<td bgcolor="#D0E7F7">软件名称</td>
+<td width="76"  nowrap="nowrap" bgcolor="#D0E7F7">整理日期</td>
+<td width="70" nowrap="nowrap" bgcolor="#D0E7F7">软件大小</td>
+<td width="50" nowrap="nowrap" bgcolor="#D0E7F7">人气</td>
+<td width="76" nowrap="nowrap" bgcolor="#D0E7F7">软件等级</td>
+</tr>
+[!--empirenews.listtemp--]
+<!--list.var1-->
+[!--empirenews.listtemp--]
+</table></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="list_page">
+<tr>
+<td>[!--show.page--]</td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>推荐下载</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+[ecmsinfo]'selfinfo',10,44,0,2,2,0[/ecmsinfo]
+</ul></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>最后更新</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+[ecmsinfo]'selfinfo',10,44,0,0,2,0[/ecmsinfo]
+</ul></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>热门点击</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ol class="rank">
+[ecmsinfo]'selfinfo',10,40,0,1,10,0[/ecmsinfo]
+</ol></td>
+</tr>
+</table></td>
+</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->200<!---ecms.field--->0<!---ecms.field---><tr> 
+    <td width="290"><img src="[!--news.url--]e/data/images/list.gif" width="11" height="11" border="0" /> <b>[!--class.name--]<a href="[!--titleurl--]">[!--title--]</a></b></td>
+    <td align="center" nowrap="nowrap">[!--newstime--]</td>
+    <td align="center" nowrap="nowrap">[!--filesize--]</td>
+    <td align="center" nowrap="nowrap">[!--totaldown--]</td>
+    <td align="center" nowrap="nowrap"><img src="[!--news.url--]e/data/images/[!--star--]star.gif" border="0" /></td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="5" class="softsay">[!--softsay--]</td>
+</tr>
+  <tr> 
+    <td colspan="5"><font color="green">界面语言：</font>[!--language--]  <font color="green">软件类型：</font>[!--softtype--]  <font color="green">授权方式：</font>[!--softsq--]  <font color="green">运行平台：</font>[!--softfj--]</td>
+</tr></td></tr>
+  <tr> 
+    <td colspan="5"><img src="[!--news.url--]e/data/images/line.gif" width="100%" height="9" /></td>
+</tr><!---ecms.field--->1<!---ecms.field--->2<!---ecms.field--->Y-m-d<!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->3<!---ecms.field--->默认图片列表模板<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="listpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>您当前的位置：[!--newsnav--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="3" class="photo_list">
+[!--empirenews.listtemp--]
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="line_bottom">
+	<tr>
+		<td width="25%" valign="top"><!--list.var1--></td>
+		<td width="25%" valign="top"><!--list.var2--></td>
+		<td width="25%" valign="top"><!--list.var3--></td>
+		<td width="25%" valign="top"><!--list.var4--></td>
+	</tr>
+</table>
+[!--empirenews.listtemp--]
+</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="list_page">
+<tr>
+<td>[!--show.page--]</td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>图片推荐</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+<tr>
+<td>[phomenewspic]'selfinfo',2,4,128,90,1,20,2[/phomenewspic] </td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>最后更新</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+[ecmsinfo]'selfinfo',10,44,0,0,2,0[/ecmsinfo]
+</ul></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>热门点击</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ol class="rank">
+[ecmsinfo]'selfinfo',10,40,0,1,10,0[/ecmsinfo]
+</ol></td>
+</tr>
+</table></td>
+</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->0<!---ecms.field--->0<!---ecms.field---><table width="100%" border="0" cellspacing="4" cellpadding="0">
+	<tr valign="top">
+		<td align="center" class="titlepic"><a href="[!--titleurl--]"><img src="[!--titlepic--]" alt="[!--oldtitle--]" width="128" height="90" border="0" /></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a></td>
+	</tr>
+</table><!---ecms.field--->4<!---ecms.field--->3<!---ecms.field--->Y-m-d H:i:s<!---ecms.field--->22<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->4<!---ecms.field--->默认FLASH列表模板<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="listpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>您当前的位置：[!--newsnav--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="3" class="flash_list">
+[!--empirenews.listtemp--]
+<!--list.var1-->
+[!--empirenews.listtemp--]
+</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="list_page">
+<tr>
+<td>[!--show.page--]</td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>推荐下载</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+<tr>
+<td>[phomenewspic]'selfinfo',2,4,128,90,1,20,2[/phomenewspic] </td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>最后更新</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+[ecmsinfo]'selfinfo',10,44,0,0,2,0[/ecmsinfo]
+</ul></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>热门点击</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ol class="rank">
+[ecmsinfo]'selfinfo',10,40,0,1,10,0[/ecmsinfo]
+</ol></td>
+</tr>
+</table></td>
+</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->200<!---ecms.field--->0<!---ecms.field---><table width="100%" border="0" cellpadding="0" cellspacing="8" class="line_bottom">
+<tr valign="top">
+<td width="200" align="center"><a href="[!--titleurl--]"><img src="[!--titlepic--]" width="200" height="150" border="0" /></a></td>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="70%" height="26" style="font-size:14px"><strong><a href="[!--titleurl--]">[!--title--]</a></strong></td>
+<td width="30%"><div align="right">[!--newstime--]</div></td>
+</tr>
+<tr>
+<td colspan="2"class="flashsay">简介：[!--flashsay--]</td>
+</tr>
+<tr>
+<td height="26" colspan="2">作者：[!--flashwriter--]　文件大小：[!--filesize--]　作品人气：[!--onclick--] </td>
+</tr>
+</table></td>
+</tr>
+</table><!---ecms.field--->1<!---ecms.field--->4<!---ecms.field--->Y-m-d<!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->5<!---ecms.field--->默认电影列表模板<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="listpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>您当前的位置：[!--newsnav--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="3" class="movie_list">
+[!--empirenews.listtemp--]
+<!--list.var1-->
+[!--empirenews.listtemp--]
+</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="list_page">
+<tr>
+<td>[!--show.page--]</td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>影视推荐</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+<tr>
+<td>[phomenewspic]'selfinfo',2,4,128,90,1,20,2[/phomenewspic] </td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>最后更新</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+[ecmsinfo]'selfinfo',10,44,0,0,2,0[/ecmsinfo]
+</ul></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>热门点击</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ol class="rank">
+[ecmsinfo]'selfinfo',10,40,0,1,10,0[/ecmsinfo]
+</ol></td>
+</tr>
+</table></td>
+</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->100<!---ecms.field--->0<!---ecms.field---><table width="100%" border="0" cellpadding="0" cellspacing="8" class="line_bottom">
+<tr valign="top">
+    <td width="27%" align="center" class="titlepic"><a href="[!--titleurl--]"><img src="[!--titlepic--]" alt="[!--oldtitle--]" width="120" height="150" border="0" /></a></td>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+          <td width="80%" height="26" style="font-size:14px"><strong><a href="[!--titleurl--]">[!--title--]</a></strong> 
+            <img src="[!--news.url--]e/data/images/[!--star--]star.gif" alt="推荐指数[!--star--]颗星" border="0" align="absmiddle" /></td>
+          <td width="20%"> 
+            <div align="right">[!--newstime--]</div></td>
+</tr>
+<tr>
+<td colspan="2"><strong>年代：</strong>2008　　<strong>出品公司：</strong>[!--company--]</td>
+</tr>
+<tr>
+	<td height="26" colspan="2"><strong>导演：</strong>[!--playadmin--]</td>
+</tr>
+<tr>
+	<td height="26" colspan="2"><strong>主演：</strong>[!--player--]</td>
+</tr>
+<tr>
+	<td height="26" colspan="2"><strong>类型：</strong>[!--movietype--]</td>
+</tr>
+<tr>
+<td colspan="2"><strong>影片简介：</strong>[!--moviesay--] [<a title="阅读全文" href="[!--titleurl--]">详细内容</a>]</td>
+</tr>
+</table></td>
+</tr>
+</table><!---ecms.field--->1<!---ecms.field--->5<!---ecms.field--->Y-m-d<!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->6<!---ecms.field--->默认商城列表模板<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="listpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>您当前的位置：[!--newsnav--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="3" class="shop_list">
+[!--empirenews.listtemp--]
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="line_bottom">
+	<tr>
+		<td width="25%" valign="top"><!--list.var1--></td>
+		<td width="25%" valign="top"><!--list.var2--></td>
+		<td width="25%" valign="top"><!--list.var3--></td>
+		<td width="25%" valign="top"><!--list.var4--></td>
+	</tr>
+</table>
+[!--empirenews.listtemp--]
+</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="list_page">
+<tr>
+<td>[!--show.page--]</td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>商品推荐</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+<tr>
+<td>[phomenewspic]'selfinfo',2,4,128,90,1,20,2[/phomenewspic] </td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>最后更新</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+[ecmsinfo]'selfinfo',10,44,0,0,2,0[/ecmsinfo]
+</ul></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>热门点击</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ol class="rank">
+[ecmsinfo]'selfinfo',10,40,0,1,10,0[/ecmsinfo]
+</ol></td>
+</tr>
+</table></td>
+</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->60<!---ecms.field--->0<!---ecms.field---><table width="100%" border="0" cellspacing="4" cellpadding="0">
+	<tr valign="top">
+		<td align="center" class="titlepic"><a href="[!--titleurl--]"><img src="[!--titlepic--]" alt="[!--oldtitle--]" width="120" height="120" border="0" /></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a></td>
+	</tr>
+	<tr>
+		<td align="center" class="tprice">市场价：<span>￥[!--tprice--]</span></td>
+	</tr>
+	<tr>
+		<td align="center" class="price">优惠价：<span>￥[!--price--]</span></td>
+	</tr>
+</table><!---ecms.field--->4<!---ecms.field--->6<!---ecms.field--->Y-m-d<!---ecms.field--->20<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->7<!---ecms.field--->默认文章列表模板<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="listpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="news_list"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>您当前的位置：[!--newsnav--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td>[!--empirenews.listtemp--]<ul>
+<!--list.var1-->
+<!--list.var2-->
+<!--list.var3-->
+<!--list.var4-->
+<!--list.var5--></ul>
+[!--empirenews.listtemp--]
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="list_page">
+<tr>
+<td>[!--show.page--]</td>
+</tr>
+</table>
+</td>
+</tr>
+</table></td>
+<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>推荐资讯</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+<tr>
+<td>[phomenewspic]'selfinfo',2,4,128,90,1,20,2[/phomenewspic]
+</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>最后更新</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+[ecmsinfo]'selfinfo',10,44,0,0,2,0[/ecmsinfo] 
+</ul></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>热门点击</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ol class="rank">
+[ecmsinfo]'selfinfo',10,40,0,1,10,0[/ecmsinfo] 
+</ol></td>
+</tr>
+</table></td>
+</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->0<!---ecms.field--->0<!---ecms.field---><li><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a> <span>[!--newstime--]</span></li><!---ecms.field--->5<!---ecms.field--->7<!---ecms.field--->Y-m-d<!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->8<!---ecms.field--->分类信息默认列表模板<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="listpage">
+[!--temp.dtheader--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>您当前的位置：[!--newsnav--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="3" class="info_list">
+[!--empirenews.listtemp--]
+<!--list.var1-->
+[!--empirenews.listtemp--]
+</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="list_page">
+<tr>
+<td>[!--show.page--]</td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+<td class="sider">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>地区导航</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td>[!--temp.infoarea--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>分类导航</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td>[!--temp.infoclassnav--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>推荐信息</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+[!--self.goodnews--]
+</ul></td>
+</tr>
+</table></td>
+</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->120<!---ecms.field--->0<!---ecms.field---><table width="100%" border="0" cellpadding="0" cellspacing="8" class="line_bottom">
+<tr valign="top">
+<td align="center" class="titlepic"><a href="[!--titleurl--]"><img src="[!--titlepic--]" alt="[!--oldtitle--]" width="80" height="60" border="0" /></a></td>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="70%" height="26" style="font-size:14px"><strong>[<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--classid--]&amp;ph=1&amp;myarea=[!--myarea--]">[!--myarea--]</a>] <a href="[!--titleurl--]">[!--title--]</a>
+</strong> 关注：<span class="click">[!--onclick--]</span></td>
+<td width="30%"><div align="right">[!--newstime--]</div></td>
+</tr>
+<tr>
+<td colspan="2" class="smalltext">[!--smalltext--] [<a title="阅读全文" href="[!--titleurl--]">详细内容</a>]</td>
+</tr>
+</table></td>
+</tr>
+</table><!---ecms.field--->1<!---ecms.field--->8<!---ecms.field--->Y-m-d<!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record---><!---ecms.temp--->1<!---ecms.field--->默认新闻内容模板<!---ecms.field--->0<!---ecms.field---><!doctype html>
+<html>
+<head>
+<meta charset="gb2312">
+<title>[!--pagetitle--]</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/blog/css/styles.css" rel="stylesheet">
+<link href="[!--news.url--]skin/blog/css/view.css" rel="stylesheet">
+<!-- 返回顶部调用 begin -->
+<link href="[!--news.url--]skin/blog/css/lrtk.css" rel="stylesheet" />
+<script type="text/javascript" src="[!--news.url--]skin/blog/js/jquery.js"></script>
+<script type="text/javascript" src="[!--news.url--]skin/blog/js/js.js"></script>
+<!-- 返回顶部调用 end-->
+<!--[if lt IE 9]>
+<script src="[!--news.url--]skin/blog/js/modernizr.js"></script>
+<![endif]-->
+</head>
+<body>
+[!--temp.header--]
+<div id="mainbody">
+  <div class="blogs">
+    <div id="index_view">
+      <h2 class="t_nav"><a href="[!--news.url--]">网站首页</a><a href="#">[!--class.name--]</a></h2>
+      <h1 class="c_titile">[!--title--]</h1>
+      <p class="box">发布时间：[!--newstime--]<span>编辑：[!--writer--]</span>阅读（[!--onclick--]）</p>
+      <ul>
+        [!--newstext--]
+<p align="center" class="pageLink">[!--page.url--]</p>
+      </ul>
+      <div class="share"> 
+        <!-- Baidu Button BEGIN -->
+        <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more">分享到：</span> <a class="bds_qzone"></a> <a class="bds_tsina"></a> <a class="bds_tqq"></a> <a class="bds_renren"></a> <a class="bds_t163"></a> <a class="shareCount"></a> </div>
+        <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=6574585" ></script> 
+        <script type="text/javascript" id="bdshell_js"></script> 
+        <script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script> 
+        <!-- Baidu Button END --> 
+      </div>
+      <div class="otherlink">
+        <h2>相关文章</h2>
+        <ul>
+       [!--other.link--]
+        </ul>
+      </div>
+    </div>
+    <!--bloglist end-->
+    <aside>
+<div class="search">
+       <form action="[!--news.url--]e/search/index.php" method="post" name="searchform" id="searchform" class="searchform" >
+          <input name="keyboard" type="text" value="Search" onfocus="this.value=''" onblur="this.value='Search'" id="keyboard" ><input type="hidden" name="show" value="title" />
+          <input type="hidden" name="tempid" value="1" /><input name="tbname" type="hidden" value="news">
+        </form>
+      </div>
+      <div class="sunnav">
+        <ul>
+[showclasstemp]'selfinfo',1,0,0[/showclasstemp]
+        </ul>
+      </div>
+[!--temp.r--]
+    </aside>
+  </div>
+  <!--blogs end--> 
+</div>
+<!--mainbody end-->
+[!--temp.footer--]<!---ecms.field--->Y-m-d<!---ecms.field--->1<!---ecms.field--->0<!---ecms.record--->2<!---ecms.field--->默认下载内容模板<!---ecms.field--->0<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="Keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="showpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="main"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>您当前的位置：[!--newsnav--]</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><table width="100%" border="0" cellpadding="3" cellspacing="2" bgcolor="#FFFFFF">
+							<tbody>
+								<tr>
+									<td width="78" align="center" nowrap="nowrap" bgcolor="#E1EFFB"><b>软件名称：</b></td>
+									<td colspan="2" bgcolor="#E1EFFB"><b>[!--title--]</b></td>
+								</tr>
+								<tr>
+									<td align="center"><strong>文件类型：</strong></td>
+									<td width="296">[!--filetype--]</td>
+									<td width="180" rowspan="9" align="center"><a href="[!--titlepic--]" target="_blank"><img src="[!--titlepic--]" border="0" width="128" /></a></td>
+								</tr>
+								<tr>
+									<td align="center" bgcolor="#F4F9FD"><strong>界面语言：</strong></td>
+									<td bgcolor="#F4F9FD">[!--language--]</td>
+								</tr>
+								<tr>
+									<td align="center"><strong>软件类型：</strong></td>
+									<td>[!--softtype--]</td>
+								</tr>
+								<tr>
+									<td align="center" bgcolor="#F4F9FD"><strong>运行环境：</strong></td>
+									<td bgcolor="#F4F9FD">[!--softfj--]</td>
+								</tr>
+								<tr>
+									<td align="center"><strong>授权方式：</strong></td>
+									<td>[!--softsq--]</td>
+								</tr>
+								<tr>
+									<td align="center" bgcolor="#F4F9FD"><strong>软件大小：</strong></td>
+									<td bgcolor="#F4F9FD">[!--filesize--]</td>
+								</tr>
+								<tr>
+									<td align="center"><strong>软件等级：</strong></td>
+									<td><img src="[!--news.url--]e/data/images/[!--star--]star.gif" border="0" /></td>
+								</tr>
+								<tr>
+									<td align="center" bgcolor="#F4F9FD"><strong>软件登陆：</strong></td>
+									<td bgcolor="#F4F9FD">[!--username--]</td>
+								</tr>
+								<tr>
+									<td align="center"><strong>作 者 ：</strong></td>
+									<td>[!--softwriter--]</td>
+								</tr>
+								<tr>
+									<td align="center" bgcolor="#F4F9FD"><strong>官方网址：</strong></td>
+									<td colspan="2" bgcolor="#F4F9FD"><a href='[!--homepage--]' target="_blank">官方站</a></td>
+								</tr>
+								<tr>
+									<td align="center"><strong>程序演示：</strong></td>
+									<td colspan="2"><a href='[!--demo--]' target="_blank">演示</a></td>
+								</tr>
+								<tr>
+									<td align="center" bgcolor="#F4F9FD"><strong>整理时间：</strong></td>
+									<td colspan="2" bgcolor="#F4F9FD">[!--newstime--]</td>
+								</tr>
+								<tr>
+									<td align="center"><strong>软件简介：</strong></td>
+									<td 
+            colspan="2"> [!--softsay--]</td>
+								</tr>
+								<tr>
+									<td width="78" align="center" nowrap="nowrap" bgcolor="#F4F9FD"><b><font color="#008E00">下载地址：</font></b></td>
+									<td colspan="2" bgcolor="#F4F9FD"> [!--downpath--]</td>
+								</tr>
+								<tr>
+									<td align="center" nowrap="nowrap"><strong>下载帮助：</strong></td>
+									<td colspan="2"><img src="[!--news.url--]e/data/images/gonggao.gif" border="0" /><a href="[!--news.url--]e/pl/?classid=[!--classid--]&amp;id=[!--id--]">发表评论</a> <img src="[!--news.url--]e/data/images/gonggao.gif" border="0" /><a href="[!--news.url--]e/member/fava/add/?classid=[!--classid--]&amp;id=[!--id--]">加入收藏夹</a> <img src="[!--news.url--]e/data/images/gonggao.gif" border="0" /><a href="[!--news.url--]e/public/report/?classid=[!--classid--]&amp;id=[!--id--]" target="_blank">错误报告</a></td>
+								</tr>
+								<tr>
+									<td width="78" align="center" valign="top" nowrap="nowrap" bgcolor="#F4F9FD"><b><font color="#008E0">相关软件：</font></b></td>
+									<td colspan="2" bgcolor="#F4F9FD">[!--other.link--]</td>
+								</tr>
+								<tr>
+									<td align="center" valign="center" nowrap="nowrap"><strong>下载说明：</strong></td>
+									<td colspan="2">☉推荐使用网际快车下载本站软件，使用 WinRAR v3.10 以上版本解压本站软件。<br />
+										☉如果这个软件总是不能下载的请点击报告错误,谢谢合作!!<br />
+										☉下载本站资源，如果服务器暂不能下载请过一段时间重试！<br />
+										☉如果遇到什么问题，请到<a href="http://www.phome.net" target="_blank">本站论坛</a>去咨寻，我们将在那里提供更多
+										、更好的资源！<br />
+										☉本站提供的一些商业软件是供学习研究之用，如用于商业用途，请购买正版。 </td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+				</tr>
+			</table>
+			[!--temp.pl--]</td>
+		<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+				<tr>
+					<td><strong>推荐下载</strong></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_goodnews.js'></script></ul></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+				<tr>
+					<td><strong>最后更新</strong></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_newnews.js'></script></ul></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+				<tr>
+					<td><strong>热门点击</strong></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_hotnews.js'></script></ul></td>
+				</tr>
+			</table></td>
+	</tr>
+</table>
+[!--temp.footer--] [!--page.stats--]
+</body>
+</html><!---ecms.field--->Y-m-d<!---ecms.field--->2<!---ecms.field--->0<!---ecms.record--->3<!---ecms.field--->默认图片内容模板(单图片)<!---ecms.field--->0<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="Keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="showpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="main"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>您当前的位置：[!--newsnav--]</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td>
+						<table width="100%" border="0" cellpadding="4" cellspacing="1" bgcolor="#FFFFFF">
+							<tr>
+								<td bgcolor="#E1EFFB">&nbsp;&nbsp;<strong>[!--title--]</strong></td>
+							</tr>
+							<tr>
+								<td><table width="0" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td width="25"><img src="[!--news.url--]e/data/images/mod/center_1.gif" width="25" height="24" /></td>
+											<td background="[!--news.url--]e/data/images/mod/box_1.gif">&nbsp;</td>
+											<td width="25"><img src="[!--news.url--]e/data/images/mod/center_2.gif" width="25" height="24" /></td>
+										</tr>
+										<tr>
+											<td background="[!--news.url--]e/data/images/mod/box_4.gif">&nbsp;</td>
+											<td bgcolor="#F3F3F3"><a href="[!--news.url--]e/ViewImg/index.html?url=[!--picurl--]" target="_blank"><img border="0" src="[!--picurl--]" class="photoresize" /></a></td>
+											<td background="[!--news.url--]e/data/images/mod/box_2.gif">&nbsp;</td>
+										</tr>
+										<tr>
+											<td><img src="[!--news.url--]e/data/images/mod/center_3.gif" width="25" height="24" /></td>
+											<td background="[!--news.url--]e/data/images/mod/box_3.gif">&nbsp;</td>
+											<td><img src="[!--news.url--]e/data/images/mod/center_4.gif" width="25" height="24" /></td>
+										</tr>
+								</table></td>
+							</tr>
+							<tr>
+								<td><table width="100%" border="0" cellpadding="4" cellspacing="1">
+										<tr>
+											<td colspan="2" bgcolor="#F4F9FD">&nbsp;&nbsp;<strong>图片资料</strong></td>
+										</tr>
+										<tr>
+											<td width="80">图片名称：</td>
+											<td width="462"> [!--title--]</td>
+										</tr>
+										<tr>
+											<td bgcolor="#F8F8F8">人气：</td>
+											<td bgcolor="#F8F8F8"> [!--onclick--]</td>
+										</tr>
+										<tr>
+											<td>图片尺寸：</td>
+											<td> [!--picsize--]</td>
+										</tr>
+										<tr>
+											<td bgcolor="#F8F8F8">图片大小：</td>
+											<td bgcolor="#F8F8F8"> [!--filesize--]</td>
+										</tr>
+										<tr>
+											<td>编辑：</td>
+											<td> [!--username--]</td>
+										</tr>
+										<tr>
+											<td bgcolor="#F8F8F8">创建日期：</td>
+											<td bgcolor="#F8F8F8"> [!--newstime--]</td>
+										</tr>
+										<tr>
+											<td valign="top">简介：</td>
+											<td valign="top">[!--picsay--]</td>
+										</tr>
+								</table></td>
+							</tr>
+												</table>						</td>
+				</tr>
+			</table>
+			[!--temp.pl--]</td>
+		<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+				<tr>
+					<td><strong>图片推荐</strong></td>
+				</tr>
+			</table>
+				<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+					<tr>
+						<td>[phomenewspic]'selfinfo',2,4,128,90,1,20,2[/phomenewspic] </td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+					<tr>
+						<td><strong>最后更新</strong></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+					<tr>
+						<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_newnews.js'></script> </ul></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+					<tr>
+						<td><strong>热门点击</strong></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+					<tr>
+						<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_hotnews.js'></script></ul></td>
+					</tr>
+			</table></td>
+	</tr>
+</table>
+[!--temp.footer--] [!--page.stats--]
+</body>
+</html><!---ecms.field--->Y-m-d H:i:s<!---ecms.field--->3<!---ecms.field--->0<!---ecms.record--->4<!---ecms.field--->默认图片内容模板(图片集)<!---ecms.field--->0<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="Keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="showpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="main"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>您当前的位置：[!--newsnav--]</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><table width="100%" border="0" cellpadding="4" cellspacing="1" bgcolor="#FFFFFF">
+						<tr>
+							<td align="center" bgcolor="#E1EFFB"><strong>[!--title--]</strong></td>
+						</tr>
+						<tr>
+							<td align="center">[eshowphoto]11,0,0[/eshowphoto]</td>
+						</tr>
+						<tr>
+							<td>&nbsp;</td>
+						</tr>
+					</table></td>
+				</tr>
+			</table>
+			[!--temp.pl--]</td>
+		<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+				<tr>
+					<td><strong>图片推荐</strong></td>
+				</tr>
+			</table>
+				<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+					<tr>
+						<td>[phomenewspic]'selfinfo',2,4,128,90,1,20,2[/phomenewspic] </td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+					<tr>
+						<td><strong>最后更新</strong></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+					<tr>
+						<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_newnews.js'></script> </ul></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+					<tr>
+						<td><strong>热门点击</strong></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+					<tr>
+						<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_hotnews.js'></script></ul></td>
+					</tr>
+			</table></td>
+	</tr>
+</table>
+[!--temp.footer--] [!--page.stats--]
+</body>
+</html><!---ecms.field--->Y-m-d H:i:s<!---ecms.field--->3<!---ecms.field--->0<!---ecms.record--->5<!---ecms.field--->默认FLASH内容模板<!---ecms.field--->0<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="Keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="showpage news">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="main"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>您当前的位置：[!--newsnav--]</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="title_info">
+							<tr>
+								<td><h1>[!--title--]</h1></td>
+							</tr>
+							<tr>
+								<td class="info_text">时间：[!--newstime--]&nbsp;&nbsp;作者：[!--flashwriter--]&nbsp;&nbsp;大小：[!--filesize--]</td>
+							</tr>
+						</table>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td id="text"><p align="center">
+										<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="top10movie" width="[!--width--]" height="[!--height--]" id="top10movie">
+											<param name="movie" value="[!--flashurl--]" />
+											<param name="quality" value="high" />
+											<param name="menu" value="false" />
+											<embed src="[!--flashurl--]" width="[!--width--]" height="[!--height--]" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" id="top10movie" name="top10movie" menu="false"></embed>
+										</object>
+									</p>
+									<p><strong>作品简介：</strong>[!--flashsay--]</p></td>
+							</tr>
+						</table></td>
+				</tr>
+			</table>
+			[!--temp.pl--]</td>
+		<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+				<tr>
+					<td><strong>推荐下载</strong></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+				<tr>
+					<td>[phomenewspic]'selfinfo',2,4,128,90,1,20,2[/phomenewspic] </td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+				<tr>
+					<td><strong>最后更新</strong></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_newnews.js'></script></ul></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+				<tr>
+					<td><strong>热门点击</strong></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_hotnews.js'></script></ul></td>
+				</tr>
+			</table></td>
+	</tr>
+</table>
+[!--temp.footer--] [!--page.stats--]
+</body>
+</html><!---ecms.field--->Y-m-d H:i:s<!---ecms.field--->4<!---ecms.field--->0<!---ecms.record--->6<!---ecms.field--->默认电影内容模板<!---ecms.field--->0<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="Keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="showpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="main"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>您当前的位置：[!--newsnav--]</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><table width="100%" border="0" cellpadding="3" cellspacing="2">
+						<tr>
+							<td width="16%"><div align="center">[影片名称]</div></td>
+							<td width="45%"><strong>[!--title--]</strong></td>
+							<td width="39%" rowspan="10" align="center" valign="top" bgcolor="#F4F9FD" class="photo"><a href="[!--titlepic--]" title="查看原图" target="_blank"><img src="[!--titlepic--]" width="205" height="278" border="0" align="top" /></a></td>
+						</tr>
+						<tr>
+							<td bgcolor="#F4F9FD"><div align="center">[领衔主演]</div></td>
+							<td bgcolor="#F4F9FD">[!--player--]</td>
+						</tr>
+						<tr>
+							<td><div align="center">[影片类型]</div></td>
+							<td>[!--movietype--]</td>
+						</tr>
+						<tr>
+							<td bgcolor="#F4F9FD"><div align="center">[带宽要求]</div></td>
+							<td bgcolor="#F4F9FD">[!--playdk--]</td>
+						</tr>
+						<tr>
+							<td><div align="center">
+									<p>[影片长度]</p>
+							</div></td>
+							<td>[!--playtime--]</td>
+						</tr>
+						<tr>
+							<td bgcolor="#F4F9FD"><div align="center">[文件大小]</div></td>
+							<td bgcolor="#F4F9FD">[!--filesize--]</td>
+						</tr>
+						<tr>
+							<td><div align="center">[推荐级别]</div></td>
+							<td><img src="[!--news.url--]e/data/images/[!--star--]star.gif" border="0" /></td>
+						</tr>
+						<tr>
+							<td bgcolor="#F4F9FD"><div align="center">[上传时间]</div></td>
+							<td bgcolor="#F4F9FD">[!--movietime--]</td>
+						</tr>
+						<tr>
+							<td><div align="center">[下载次数]</div></td>
+							<td><script src="[!--news.url--]e/public/ViewClick/?classid=[!--classid--]&amp;id=[!--id--]&amp;down=1"></script></td>
+						</tr>
+						<tr>
+							<td bgcolor="#F4F9FD"><div align="center">[文件格式]</div></td>
+							<td bgcolor="#F4F9FD">[!--filetype--]</td>
+						</tr>
+						<tr>
+							<td><div align="center">[在线观看]</div></td>
+							<td colspan="2">[!--onlinepath--]</td>
+						</tr>
+						<tr>
+							<td bgcolor="#F4F9FD"><div align="center">[下载影片]</div></td>
+							<td colspan="2" bgcolor="#F4F9FD">[!--downpath--]</td>
+						</tr>
+						<tr>
+							<td><div align="center">[下载帮助]</div></td>
+							<td colspan="2"><img src="[!--news.url--]e/data/images/gonggao.gif" border="0" /><a href="[!--news.url--]e/pl/?classid=[!--classid--]&amp;id=[!--id--]">发表评论</a> <img src="[!--news.url--]e/data/images/gonggao.gif" border="0" /><a href="[!--news.url--]e/member/fava/add/?classid=[!--classid--]&amp;id=[!--id--]">加入收藏夹</a> <img src="[!--news.url--]e/data/images/gonggao.gif" border="0" /><a href="[!--news.url--]e/public/report/?classid=[!--classid--]&amp;id=[!--id--]" target="_blank">错误报告</a></td>
+						</tr>
+						<tr>
+							<td bgcolor="#F4F9FD"><div align="center">[影片介绍]</div></td>
+							<td colspan="2" bgcolor="#F4F9FD">&nbsp;</td>
+						</tr>
+						<tr>
+							<td colspan="3" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="4" style="table-layout:  fixed;  word-wrap:  break-word">
+									<tr>
+										<td>[!--moviesay--]</td>
+									</tr>
+							</table></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table>
+			[!--temp.pl--]</td>
+		<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+				<tr>
+					<td><strong>影视推荐</strong></td>
+				</tr>
+			</table>
+				<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+					<tr>
+						<td>[phomenewspic]'selfinfo',2,4,128,90,1,20,2[/phomenewspic] </td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+					<tr>
+						<td><strong>最后更新</strong></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+					<tr>
+						<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_newnews.js'></script></ul></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+					<tr>
+						<td><strong>热门点击</strong></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+					<tr>
+						<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_hotnews.js'></script></ul></td>
+					</tr>
+			</table></td>
+	</tr>
+</table>
+[!--temp.footer--] [!--page.stats--]
+</body>
+</html><!---ecms.field--->Y-m-d<!---ecms.field--->5<!---ecms.field--->0<!---ecms.record--->7<!---ecms.field--->默认商城内容模板<!---ecms.field--->0<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="Keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="showpage">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="main"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>您当前的位置：[!--newsnav--]</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><table width="100%" border="0" cellpadding="3" cellspacing="2">
+						<tr>
+							<td colspan="2" bgcolor="#F4F9FD">&nbsp;&nbsp;<strong>商品基本信息</strong></td>
+						</tr>
+						<tr>
+							<td width="30%" align="center" class="titlepic"><a href="[!--productpic--]" title="预览大图" target="_blank"><img height="128" src="[!--titlepic--]" width="128" border="0" /></a></td>
+							<td><table width="100%" border="0" cellpadding="3" cellspacing="2">
+								<tr>
+									<td style="font-size: 14px;"><strong>商品名称：[!--title--]</strong></td>
+								</tr>
+								<tr>
+									<td>市场价：<span class="tprice">￥[!--tprice--]</span>&nbsp;优惠价：<span class="price">￥[!--price--]</span>&nbsp; 
+										点数: [!--buyfen--]</td>
+								</tr>
+								<tr>
+									<td>商品编号:[!--productno--]</td>
+								</tr>
+								<tr>
+									<td>商品品牌:[!--pbrand--]</td>
+								</tr>
+								<tr>
+									<td>计量单位:[!--unit--]</td>
+								</tr>
+								<tr>
+									<td>商品重量:[!--weight--]</td>
+								</tr>
+								<tr>
+									<td>[<a href="#ecms" onclick="window.open('[!--news.url--]e/ShopSys/doaction.php?enews=AddBuycar&amp;classid=[!--classid--]&amp;id=[!--id--]','','width=680,height=500,scrollbars=yes,resizable=yes');">加入购物车</a>]&nbsp;&nbsp;&nbsp;&nbsp;[<a href="[!--news.url--]e/member/fava/add/?classid=[!--classid--]&amp;id=[!--id--]" target="_blank">放入收藏夹</a>]&nbsp;&nbsp;&nbsp;&nbsp;[<a href="[!--news.url--]e/pl/?classid=[!--classid--]&amp;id=[!--id--]" target="_blank">查看评论</a>]</td>
+								</tr>
+							</table></td>
+						</tr>
+						<tr>
+							<td colspan="2" bgcolor="#F4F9FD">&nbsp;&nbsp;<strong>商品介绍</strong></td>
+						</tr>
+						<tr>
+							<td colspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="8">
+									<tr>
+										<td id="text">[!--newstext--]</td>
+									</tr>
+							</table></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table>
+			[!--temp.pl--]</td>
+		<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+				<tr>
+					<td><strong>商品推荐</strong></td>
+				</tr>
+			</table>
+				<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+					<tr>
+						<td>[phomenewspic]'selfinfo',2,4,128,90,1,20,2[/phomenewspic] </td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+					<tr>
+						<td><strong>最后更新</strong></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+					<tr>
+						<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_newnews.js'></script></ul></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+					<tr>
+						<td><strong>热门点击</strong></td>
+					</tr>
+				</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+					<tr>
+						<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_hotnews.js'></script></ul></td>
+					</tr>
+			</table></td>
+	</tr>
+</table>
+[!--temp.footer--] [!--page.stats--]
+</body>
+</html><!---ecms.field--->Y-m-d<!---ecms.field--->6<!---ecms.field--->0<!---ecms.record--->8<!---ecms.field--->默认文章内容模板<!---ecms.field--->0<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+<script type="text/javascript" src="[!--news.url--]e/data/js/ajax.js"></script>
+</head>
+<body class="showpage news">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="main"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>您当前的位置：[!--newsnav--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="title_info">
+<tr>
+<td><h1>[!--title--]</h1></td>
+</tr>
+<tr>
+<td class="info_text">时间：[!--newstime--]&nbsp;&nbsp;来源：[!--befrom--]&nbsp;&nbsp;作者：[!--writer--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td id="text">[!--newstext--]
+<p align="center" class="pageLink">[!--page.url--]</p></td>
+</tr>
+</table>
+<table border="0" align="center" cellpadding="0" cellspacing="8">
+<tr>
+<td><table border="0" align="center" cellpadding="0" cellspacing="0" class="digg">
+<tr>
+<td class="diggnum" id="diggnum"><strong><script type="text/javascript" src="[!--news.url--]e/public/ViewClick/?classid=[!--classid--]&id=[!--id--]&down=5"></script></strong></td>
+</tr>
+<tr>
+<td class="diggit"><a href="JavaScript:makeRequest('[!--news.url--]e/public/digg/?classid=[!--classid--]&id=[!--id--]&dotop=1&doajax=1&ajaxarea=diggnum','EchoReturnedText','GET','');">来顶一下</a></td>
+</tr>
+</table></td>
+<td><table border="0" align="center" cellpadding="0" cellspacing="0" class="digg">
+<tr>
+<td valign="middle" class="diggnum"><strong><a href="[!--news.url--]"><img src="[!--news.url--]skin/default/images/back.gif" alt="返回首页" width="12" height="13" border="0" align="absmiddle" /></a></strong></td>
+</tr>
+<tr>
+<td class="diggit"><a href="[!--news.url--]">返回首页</a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+[!--temp.pl--]
+</td>
+<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>推荐资讯</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="8" cellpadding="0" class="box">
+<tr>
+          <td>[phomenewspic]'article',2,4,128,90,1,20,20[/phomenewspic] </td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>相关文章</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+[!--other.link--]
+</ul></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>栏目更新</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_newnews.js'></script></ul></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>栏目热门</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ul>
+              <script src='[!--news.url--]d/js/class/class[!--self.classid--]_hotnews.js'></script></ul></td>
+</tr>
+</table></td>
+</tr>
+</table>
+[!--temp.footer--]
+[!--page.stats--]
+</body>
+</html><!---ecms.field--->Y-m-d H:i:s<!---ecms.field--->7<!---ecms.field--->0<!---ecms.record--->9<!---ecms.field--->默认分类信息内容模板<!---ecms.field--->0<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="Keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="showpage info">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="main"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>您当前的位置：[!--newsnav--]</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="title_info">
+							<tr>
+								<td colspan="2"><h1>[!--title--]</h1></td>
+							</tr>
+							<tr>
+								<td class="info_text">所在地区：<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--classid--]&amp;ph=1&amp;myarea=[!--myarea--]">[!--myarea--]</a>&nbsp;&nbsp;</td>
+								<td align="right" class="info_text">时间：[!--newstime--]&nbsp;&nbsp;【<a 
+href="[!--news.url--]e/member/fava/add/?classid=[!--classid--]&amp;id=[!--id--]">加入收藏夹</a>】【<a href="[!--news.url--]e/public/report/?classid=[!--classid--]&amp;id=[!--id--]" target="_blank">举报</a>】【<a href="javascript:window.close()">关闭</a>】</td>
+							</tr>
+						</table>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td id="text"><p><a href="[!--titlepic--]" title="点击查看原图" target="_blank"><img src="[!--titlepic--]" hspace="6" border="0" align="left" /></a>[!--smalltext--]</p></td>
+							</tr>
+						</table>
+						<table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#FFFFFF">
+							<tr>
+								<td bgcolor="#F4F9FD">&nbsp;&nbsp;<strong>联系方式</strong></td>
+							</tr>
+						</table>
+						<table width="100%" border="0" cellpadding="3" cellspacing="1" bgcolor="#F4F9FD">
+							<tr>
+								<td width="13%" bgcolor="#FFFFFF"><div align="right">发 布 者：</div></td>
+								
+                <td width="88%" bgcolor="#FFFFFF">[!--linkusername--]&nbsp;(<a href="[!--news.url--]e/member/msg/AddMsg/?enews=AddMsg&amp;re=1&amp;username=[!--username--]" target="_blank">发送站内信息</a>)</td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF"><div align="right">联系邮箱：</div></td>
+								<td bgcolor="#FFFFFF"><a href="mailto:[!--email--]">[!--email--]</a></td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF"><div align="right">联系方式：</div></td>
+								<td bgcolor="#FFFFFF">[!--mycontact--]</td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF"><div align="right">联系地址：</div></td>
+								<td bgcolor="#FFFFFF">[!--address--]</td>
+							</tr>
+						</table>
+						<table width="100%" border="0" cellpadding="4" cellspacing="1" bgcolor="#FFFFFF">
+							<tr>
+								<td>&nbsp;</td>
+							</tr>
+							<tr>
+								<td bgcolor="#F8F8F8">&nbsp;&nbsp;<strong>推荐给朋友</strong></td>
+							</tr>
+							<tr>
+								<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<td width="2%">&nbsp;</td>
+											<td><script>
+function sendtof(url)
+{
+window.clipboardData.setData('Text',url);
+alert('复制地址成功，粘贴给你好友一起分享。');
+}
+  			</script>
+												<input name="textfield" type="text" value="http://域名[!--titleurl--]" size="60" onclick="sendtof(this.value);" /></td>
+										</tr>
+									</table></td>
+							</tr>
+						</table>
+						
+          </td>
+				</tr>
+			</table>
+			[!--temp.pl--]</td>
+		<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+				<tr>
+					<td><strong>地区导航</strong></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td>[!--temp.infoarea--]</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+				<tr>
+					<td><strong>分类导航</strong></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td>[!--temp.infoclassnav--]</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+				<tr>
+					<td><strong>推荐信息</strong></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><ul>
+							<script src='[!--news.url--]d/js/class/class[!--self.classid--]_goodnews.js'></script>
+						</ul></td>
+				</tr>
+			</table></td>
+	</tr>
+</table>
+[!--temp.footer--] [!--page.stats--]
+</body>
+</html><!---ecms.field--->Y年m月d日 H:i:s<!---ecms.field--->8<!---ecms.field--->0<!---ecms.record---><!---ecms.temp--->1<!---ecms.field---><!doctype html>
+<html>
+<head>
+<meta charset="gb2312">
+<title>[!--pagetitle--]</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/blog/css/styles.css" rel="stylesheet">
+<link href="[!--news.url--]skin/blog/css/animation.css" rel="stylesheet">
+<!-- 返回顶部调用 begin -->
+<link href="[!--news.url--]skin/blog/css/lrtk.css" rel="stylesheet" />
+<script type="text/javascript" src="[!--news.url--]skin/blog/js/jquery.js"></script>
+<script type="text/javascript" src="[!--news.url--]skin/blog/js/js.js"></script>
+<!-- 返回顶部调用 end-->
+<!--[if lt IE 9]>
+<script src="[!--news.url--]skin/blog/js/modernizr.js"></script>
+<![endif]-->
+</head>
+<body>
+[!--temp.header--]
+<div id="mainbody">
+  <div class="info">
+    <figure> <img src="[!--news.url--]skin/blog/images/art.jpg"  alt="Panama Hat">
+      <figcaption><strong>渡人如渡己，渡已，亦是渡</strong> 当我们被误解时，会花很多时间去辩白。 但没有用，没人愿意听，大家习惯按自己的所闻、理解做出判别，每个人其实都很固执。与其努力且痛苦的试图扭转别人的评判，不如默默承受，给大家多一点时间和空间去了解。而我们省下辩解的功夫，去实现自身更久远的人生价值。其实，渡人如渡己，渡已，亦是渡人。</figcaption>
+    </figure>
+    <div class="card">
+      <h1>我的名片</h1>
+      <p>网名：DanceSmile | 即步非烟</p>
+      <p>职业：Web前端设计师、网页设计</p>
+      <p>电话：13662012345</p>
+      <p>Email：dancesmiling@qq.com</p>
+      <ul class="linkmore">
+        <li><a href="/" class="talk" title="给我留言"></a></li>
+        <li><a href="/" class="address" title="联系地址"></a></li>
+        <li><a href="/" class="email" title="给我写信"></a></li>
+        <li><a href="/" class="photos" title="生活照片"></a></li>
+        <li><a href="/" class="heart" title="关注我"></a></li>
+      </ul>
+    </div>
+  </div>
+  <!--info end-->
+  <div class="blank"></div>
+<div class="blogs">
+    <ul class="bloglist">
+         [ecmsinfo]0,5,0,0,13,5,0[/ecmsinfo]
+    </ul>
+    <!--bloglist end-->
+    <aside>
+      [!--temp.r--]
+      <div class="search">
+       <form action="[!--news.url--]e/search/index.php" method="post" name="searchform" id="searchform" class="searchform" >
+          <input name="keyboard" type="text" value="Search" onfocus="this.value=''" onblur="this.value='Search'" id="keyboard" ><input type="hidden" name="show" value="title" />
+          <input type="hidden" name="tempid" value="1" /><input name="tbname" type="hidden" value="news">
+        </form>
+      </div>
+      <div class="viny">
+        <dl>
+          <dt class="art"><img src="[!--news.url--]skin/blog/images/artwork.png" alt="专辑"></dt>
+          <dd class="icon-song"><span></span>南方姑娘</dd>
+          <dd class="icon-artist"><span></span>歌手：赵雷</dd>
+          <dd class="icon-album"><span></span>所属专辑：《赵小雷》</dd>
+          <dd class="icon-like"><span></span><a href="/">喜欢</a></dd>
+          <dd class="music">
+            <audio src="http://www.3dst.cn/upload/video/nf.mp3" controls></audio>
+          </dd>
+        </dl>
+      </div>
+    </aside>
+  </div>
+  <!--blogs end--> 
+</div>
+<!--mainbody end-->
+[!--temp.footer--]<!---ecms.field---><!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="listpage">
+[!--temp.dtheader--] 
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>现在的位置：[!--newsnav--]
+</td>
+</tr>
+</table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+        <tr> 
+          <td width="300" valign="top"> 
+		  <?php
+		  $lguserid=intval(getcvar('mluserid'));//登陆用户ID
+		  $lgusername=RepPostVar(getcvar('mlusername'));//登陆用户
+		  $lggroupid=intval(getcvar('mlgroupid'));//会员组ID
+		  if($lggroupid)	//登陆会员显示菜单
+		  {
+		  ?>
+            <table width="100%" border="0" cellpadding="3" cellspacing="1" class="tableborder">
+              <tr class="header"> 
+                <td height="20" bgcolor="#FFFFFF"> <div align="center"><strong><a href="[!--news.url--]e/member/cp/">功能菜单</a></strong></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/EditInfo/">修改资料</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/my/">帐号状态</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/msg/">站内信息</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/mspace/SetSpace.php">空间设置</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/DoInfo/">管理信息</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/fava/">收藏夹</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/payapi/">在线支付</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/friend/">我的好友</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/buybak/">消费记录</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/buygroup/">在线充值</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/card/">点卡充值</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="#ecms" onclick="window.open('[!--news.url--]e/ShopSys/buycar/','','width=680,height=500,scrollbars=yes,resizable=yes');">我的购物车</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/ShopSys/ListDd/">我的订单</a></div></td>
+              </tr>
+			  <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/login/">重新登陆</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/doaction.php?enews=exit" onclick="return confirm('确认要退出?');">退出登陆</a></div></td>
+              </tr>
+            </table>
+			<?php
+			}
+			else	//游客显示菜单
+			{
+			?>  
+            <table width="100%" border="0" cellpadding="3" cellspacing="1" class="tableborder">
+              <tr class="header"> 
+                <td height="20" bgcolor="#FFFFFF"> <div align="center"><strong><a href="[!--news.url--]e/member/cp/">功能菜单</a></strong></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/login/">会员登陆</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/member/register/">注册帐号</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="[!--news.url--]e/DoInfo/">发布投稿</a></div></td>
+              </tr>
+              <tr> 
+                <td height="25" bgcolor="#FFFFFF" onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF3FC'"><div align="center"><a href="#ecms" onclick="window.open('[!--news.url--]e/ShopSys/buycar/','','width=680,height=500,scrollbars=yes,resizable=yes');">我的购物车</a></div></td>
+              </tr>
+            </table>
+			<?php
+			}
+			?>
+			</td>
+          <td width="85%" valign="top">[!--empirenews.template--]</td>
+        </tr>
+      </table></td>
+</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>高级搜索 - Powered by EmpireCMS</title>
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+<script src="[!--news.url--]e/data/images/setday.js"></script>
+</head>
+<body class="listpage">
+[!--temp.dtheader--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>现在的位置：[!--url--]</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td><form action='[!--news.url--]e/search/index.php' method="post" name="search_news" id="search_news">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<td width="54%"><table width="100%" border="0" cellpadding="6" cellspacing="0">
+													<tr>
+														<td bgcolor="#F4F4F4"><strong>搜索范围</strong></td>
+													</tr>
+											</table></td>
+											<td width="46%"><table width="100%" border="0" cellpadding="6" cellspacing="0">
+													<tr>
+														<td bgcolor="#F4F4F4"><strong>搜索栏目</strong></td>
+													</tr>
+											</table></td>
+										</tr>
+										<tr>
+											<td valign="top"><table width="100%" border="0" cellpadding="6" cellspacing="0">
+													<tr>
+														<td><input type="radio" name="show" value="title" checked="checked" />
+															标题
+															<input type="radio" name="show" value="smalltext" />
+															简介
+															<input type="radio" name="show" value="newstext" />
+															内容
+															<input type="radio" name="show" value="writer" />
+															作者
+															<input name="show" type="radio" value="title,smalltext,newstext,writer" />
+															不限</td>
+													</tr>
+												</table>
+													<br />
+													<table width="100%" border="0" cellpadding="6" cellspacing="0">
+														<tr bgcolor="#F4F4F4">
+															<td><strong>时间限制</strong><font color="#666666">(0000-00-00为不限制)</font></td>
+														</tr>
+														<tr>
+															<td height="30" valign="top">从
+																<input name="starttime" type="text" value="0000-00-00" size="12" onclick="setday(this)" />
+																到
+																<input name="endtime" type="text" value="0000-00-00" size="12" onclick="setday(this)" />
+																之间的数据</td>
+														</tr>
+														<tr>
+															<td bgcolor="#F4F4F4"><strong>价格限制</strong><font color="#666666">(商城模型中有效,0为不限制)</font></td>
+														</tr>
+														<tr>
+															<td>从
+																<input name="startprice" type="text" id="startprice" value="0" size="6" />
+																到
+																<input name="endprice" type="text" id="endprice" value="0" size="6" />
+																元之间</td>
+														</tr>
+												</table></td>
+											<td valign="top"><table width="100%" border="0" cellspacing="6" cellpadding="0">
+													<tr>
+														<td><select name="classid" size="8" id="select2" style="width: 100%;height:112px">
+																<option value="0" selected="selected">所有栏目</option>
+															[!--class--]
+          
+														</select></td>
+													</tr>
+												</table>
+													<table width="100%" border="0" cellpadding="6" cellspacing="0">
+														<tr>
+															<td bgcolor="#F4F4F4"><strong>结果显示</strong></td>
+														</tr>
+														<tr>
+															<td height="30"><select name="orderby" id="select4">
+																	<option value="">按发布日期</option>
+																	<option value="id">信息ID</option>
+																	<option value="plnum">评论数</option>
+																	<option value="onclick">人气</option>
+																	<option value="totaldown">下载数</option>
+																</select>
+																	<select name="myorder" id="select5">
+																		<option value="0">倒序排列</option>
+																		<option value="1">顺序排列</option>
+																	</select>
+															</td>
+														</tr>
+												</table></td>
+										</tr>
+									</table>
+								<table width="100%" border="0" cellpadding="4" cellspacing="0">
+										<tr>
+											<td>关键字：
+												<input name="keyboard" type="text" id="keyboard2" size="60" />
+													<input type="submit" name="Submit22" value="搜索" />
+											</td>
+										</tr>
+									</table>
+							</form></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table></td>
+	</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field---><table border=0 cellpadding=3 cellspacing=1><form name=search_js1 method=post action='[!--news.url--]e/search/index.php' onsubmit='return search_check(document.search_js1);'><tr><td><div align=center>搜索: <select name=show><option value=title>标题</option><option value=smalltext>简介</option><option value=newstext>内容</option><option value=writer>作者</option><option value=title,smalltext,newstext,writer>搜索全部</option></select><select name=classid><option value=0>所有栏目</option>[!--class--]</select><input name=keyboard type=text size=13><input type=submit name=Submit value=搜索></div></td></tr></form></table><!---ecms.field---><table width=99% border=0 cellpadding=3 cellspacing=1><form name=search_js2 method=post action='[!--news.url--]e/search/index.php' onsubmit='return search_check(document.search_js2);'><tr><td height=25><div align=center>关键字: <input name=keyboard type=text size=13></div></td></tr><tr><td><div align=center>范围: <select name=show><option value=title>标题</option><option value=smalltext>简介</option><option value=newstext>内容</option><option value=writer>作者</option><option value=title,smalltext,newstext,writer>搜索全部</option></select></div></td></tr><tr><td><div align=center>栏目:<select name=classid><option value=0>所有栏目</option>[!--class--]</select></div></td></tr><tr><td><div align=center><input type=submit name=Submit value=搜索></div></td></tr></form></table><!---ecms.field--->[!--empirenews.listtemp--]<li><a href="[!--titleurl--]" title="[!--oldtitle--]">[!--title--]</a></li>[!--empirenews.listtemp--]<!---ecms.field---><!---ecms.field--->[ <a href="#ecms" onclick="window.open('[!--down.url--]','','width=300,height=300,resizable=yes');">[!--down.name--]</a> ]<!---ecms.field--->[ <a href="#ecms" onclick="window.open('[!--down.url--]','','width=300,height=300,resizable=yes');">[!--down.name--]</a> ]<!---ecms.field--->页次：[!--thispage--]/[!--pagenum--]&nbsp;每页[!--lencord--]&nbsp;总数[!--num--]&nbsp;&nbsp;&nbsp;&nbsp;[!--pagelink--]&nbsp;&nbsp;&nbsp;&nbsp;转到:[!--options--]<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>留言板 - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--bname--]" />
+<meta name="description" content="[!--bname--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="listpage">
+[!--temp.dtheader--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>现在的位置：<a href=../../../>首页</a>&nbsp;>&nbsp;[!--bname--]
+</td>
+</tr>
+</table><table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+	<tr>
+		<td><table width="100%" border="0" cellpadding="3" cellspacing="2">
+			<tr>
+				<td align="center" bgcolor="#E1EFFB"><strong>[!--bname--]</strong></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#FFFFFF">
+						<tr>
+							<td height="100%" valign="top" bgcolor="#FFFFFF"> [!--empirenews.listtemp--]
+								<table width="92%" border="0" align="center" cellpadding="4" cellspacing="1" bgcolor="#F4F9FD" class="tableborder">
+										<tr class="header">
+											<td width="55%" height="23">发布者: [!--name--] </td>
+											<td width="45%">发布时间: [!--lytime--] </td>
+										</tr>
+										<tr bgcolor="#FFFFFF">
+											<td height="23" colspan="2"><table border="0" width="100%" cellspacing="1" cellpadding="8" bgcolor='#cccccc'>
+													<tr>
+														<td width='100%' bgcolor='#FFFFFF' style='word-break:break-all'> [!--lytext--] </td>
+													</tr>
+												</table>
+												[!--start.regbook--]
+												<table width="100%" border="0" align="center" cellpadding="3" cellspacing="1">
+													<tr>
+														<td><img src="../../data/images/regb.gif" width="18" height="18" /><strong><font color="#FF0000">回复:</font></strong> [!--retext--] </td>
+													</tr>
+												</table>
+												[!--end.regbook--] </td>
+										</tr>
+									</table>
+								<br />
+								[!--empirenews.listtemp--]
+								<table width="92%" border="0" align="center" cellpadding="4" cellspacing="1">
+									<tr>
+										<td>分页: [!--listpage--]</td>
+									</tr>
+								</table>
+								<form action="../../enews/index.php" method="post" name="form1" id="form1">
+									<table width="92%" border="0" align="center" cellpadding="4" cellspacing="1"class="tableborder">
+										<tr class="header">
+											<td colspan="2" bgcolor="#F4F9FD"><strong>请您留言:</strong></td>
+										</tr>
+										<tr bgcolor="#FFFFFF">
+											<td width="20%">姓名:</td>
+											<td width="722" height="23"><input name="name" type="text" id="name" />
+												*</td>
+										</tr>
+										<tr bgcolor="#FFFFFF">
+											<td>联系邮箱:</td>
+											<td height="23"><input name="email" type="text" id="email" />
+												*</td>
+										</tr>
+										<tr bgcolor="#FFFFFF">
+											<td>联系电话:</td>
+											<td height="23"><input name="mycall" type="text" id="mycall" /></td>
+										</tr>
+										<tr bgcolor="#FFFFFF">
+											<td>留言内容(*):</td>
+											<td height="23"><textarea name="lytext" cols="60" rows="12" id="lytext"></textarea></td>
+										</tr>
+										<tr bgcolor="#FFFFFF">
+											<td height="23">&nbsp;</td>
+											<td height="23"><input type="submit" name="Submit3" value="提交" />
+											<input type="reset" name="Submit22" value="重置" />
+											<input name="enews" type="hidden" id="enews" value="AddGbook" /></td>
+										</tr>
+									</table>
+								</form></td>
+						</tr>
+				</table></td>
+			</tr>
+		</table></td>
+	</tr>
+</table></td>
+</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field---><html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>登陆</title>
+<LINK href="../../data/images/qcss.css" rel=stylesheet>
+</head>
+<body bgcolor="#ededed" topmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <form name=login method=post action="../../member/doaction.php">
+    <input type=hidden name=enews value=login>
+    <input type=hidden name=prtype value=1>
+    <tr> 
+      <td height="23" align="center">
+      <div align="left">
+      用户名：<input name="username" type="text" size="8">&nbsp;
+      密码：<input name="password" type="password" size="8">
+      <select name="lifetime" id="lifetime">
+         <option value="0">不保存</option>
+         <option value="3600">一小时</option>
+         <option value="86400">一天</option>
+         <option value="2592000">一个月</option>
+         <option value="315360000">永久</option>
+      </select>&nbsp;
+      <input type="submit" name="Submit" value="登陆">&nbsp;
+      <input type="button" name="Submit2" value="注册" onclick="window.open('../register/');">
+      </div>
+      </td>
+    </tr>
+  </form>
+</table>
+</body>
+</html>
+[!--empirenews.template--]
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>登陆</title>
+<LINK href="../../data/images/qcss.css" rel=stylesheet>
+</head>
+<body bgcolor="#ededed" topmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+	<td height="23" align="center">
+	<div align="left">
+		&raquo;&nbsp;<font color=red><b>[!--username--]</b></font>&nbsp;&nbsp;<a href="../my/" target="_parent">[!--groupname--]</a>&nbsp;[!--havemsg--]&nbsp;<a href="[!--news.url--]e/space/?userid=[!--userid--]" target=_blank>我的空间</a>&nbsp;&nbsp;<a href="../msg/" target=_blank>短信息</a>&nbsp;&nbsp;<a href="../fava/" target=_blank>收藏夹</a>&nbsp;&nbsp;<a href="../cp/" target="_parent">控制面板</a>&nbsp;&nbsp;<a href="../../member/doaction.php?enews=exit&prtype=9" onclick="return confirm('确认要退出?');">退出</a> 
+	</div>
+	</td>
+    </tr>
+</table>
+</body>
+</html><!---ecms.field--->50<!---ecms.field--->Y-m-d H:i:s<!---ecms.field---><form name=login method=post action="[!--news.url--]e/member/doaction.php">
+    <input type=hidden name=enews value=login>
+    <input type=hidden name=ecmsfrom value=9>
+    用户名：<input name="username" type="text" class="inputText" size="16" />&nbsp;
+    密码：<input name="password" type="password" class="inputText" size="16" />&nbsp;
+    <input type="submit" name="Submit" value="登陆" class="inputSub" />&nbsp;
+    <input type="button" name="Submit2" value="注册" class="inputSub" onclick="window.open('[!--news.url--]e/member/register/');" />
+</form>
+[!--empirenews.template--]
+&raquo;&nbsp;<font color=red><b>[!--username--]</b></font>&nbsp;&nbsp;<a href="[!--news.url--]e/member/my/" target="_parent">[!--groupname--]</a>&nbsp;[!--havemsg--]&nbsp;<a href="[!--news.url--]e/space/?userid=[!--userid--]" target=_blank>我的空间</a>&nbsp;&nbsp;<a href="[!--news.url--]e/member/msg/" target=_blank>短信息</a>&nbsp;&nbsp;<a href="[!--news.url--]e/member/fava/" target=_blank>收藏夹</a>&nbsp;&nbsp;<a href="[!--news.url--]e/member/cp/" target="_parent">控制面板</a>&nbsp;&nbsp;<a href="[!--news.url--]e/member/doaction.php?enews=exit&ecmsfrom=9" onclick="return confirm('确认要退出?');">退出</a><!---ecms.field---><html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>[!--pagetitle--]</title>
+<meta name="keywords" content="[!--pagekey--]">
+<meta name="description" content="[!--pagedes--]">
+<link href="../../data/images/qcss.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<br>
+<br>
+<br>
+<br>
+<table align="center" width="100%">
+  <tr> 
+    <td height="32" align=center>
+	<a href="[!--down.url--]" title="[!--title--] －[!--down.name--]">
+	<img src="../../data/images/download.jpg" border=0>
+	</a>
+	</td>
+  </tr>
+  <tr> 
+    <td align=center>(点击下载)</td>
+  </tr>
+</table>
+<br>
+</body>
+</html><!---ecms.field--->[!--empirenews.listtemp--] 
+      <table width="100%" border="0" align="center" cellpadding="3" cellspacing="1" style="word-break:break-all; word-wrap:break-all;">
+        <tr> 
+          <td height="30"><span class="name">本站网友 [!--username--]</span> <font color="#666666">ip:[!--plip--]</font></td>
+          <td><div align="right"><font color="#666666">[!--pltime--] 发表</font></div></td>
+        </tr>
+        <tr valign="top"> 
+          <td height="50" colspan="2" class="text">[!--pltext--]</td>
+        </tr>
+        <tr> 
+          <td height="30">&nbsp;</td>
+          <td><div align="right" class="re"> 
+              <a href="JavaScript:makeRequest('[!--news.url--]e/pl/doaction.php?enews=DoForPl&plid=[!--plid--]&classid=[!--classid--]&id=[!--id--]&dopl=1&doajax=1&ajaxarea=zcpldiv[!--plid--]','EchoReturnedText','GET','');">支持</a>[<span id="zcpldiv[!--plid--]">[!--zcnum--]</span>]&nbsp; 
+              <a href="JavaScript:makeRequest('[!--news.url--]e/pl/doaction.php?enews=DoForPl&plid=[!--plid--]&classid=[!--classid--]&id=[!--id--]&dopl=0&doajax=1&ajaxarea=fdpldiv[!--plid--]','EchoReturnedText','GET','');">反对</a>[<span id="fdpldiv[!--plid--]">[!--fdnum--]</span>]
+            </div></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="1" cellpadding="3">
+        <tr>
+          <td background="[!--news.url--]skin/default/images/plhrbg.gif"></td>
+        </tr>
+      </table>
+[!--empirenews.listtemp--]<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>搜索 - Powered by EmpireCMS</title>
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+<style type="text/css">
+<!--
+.r {
+display:inline;
+font-weight:normal;
+margin:0;
+font-size:16px;
+margin-top:10px;
+}
+.a{color:green}
+.fl{color:#77c}
+-->
+</style>
+</head>
+<body class="listpage">
+[!--temp.dtheader--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>现在的位置：<a href="[!--news.url--]">首页</a>&nbsp;>&nbsp;搜索</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><form action='index.php' method="GET" name="search_news" id="search_news">
+							<table width="100%" border="0" cellspacing="6" cellpadding="0">
+								<tr>
+									<td height="32">关键字：
+										<input name="keyboard" type="text" id="keyboard" value="[!--keyboard--]" size="42" />
+                    <select name="field" id="field">
+                      <option value="1">全文</option>
+                      <option value="2">标题</option>
+                      <option value="3">内容</option>
+                    </select> 
+                    <input type="submit" name="Submit22" value="搜索" />
+                    <font color="#666666">(多个关键字请用&quot;空格&quot;隔开)</font> </td>
+								</tr>
+							</table>
+						</form>
+						<table width="100%" border="0" cellpadding="0" cellspacing="6">
+							<tr>
+								<td>系统搜索到约有<strong>[!--num--]</strong>项符合<strong>[!--keyboard--]</strong>的查询结果</td>
+							</tr>
+						</table>
+						[!--empirenews.listtemp--]
+						<h2 class="r"><span>[!--no.num--].</span> <a class="l" href="[!--titleurl--]" target="_blank">[!--title--]</a></h2>
+						<table width="80%" border="0" cellpadding="0" cellspacing="0">
+							<tbody>
+							<tr>
+								<td>[!--smalltext--]</td>
+							</tr>
+							<tr>
+								<td><span class="a">[!--titleurl--] - [!--newstime--]</span></td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+							</tr>
+							</tbody>
+						</table>
+						[!--empirenews.listtemp--]
+						<table width="100%" border="0" cellspacing="0" cellpadding="0" class="list_page">
+							<tr>
+								<td>[!--listpage--]</td>
+							</tr>
+						</table></td>
+				</tr>
+			</table></td>
+	</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->120<!---ecms.field--->Y-m-d H:i:s<!---ecms.record---><!---ecms.temp--->1<!---ecms.field--->默认搜索模板<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--keyboard--] 搜索结果 - Powered by EmpireCMS</title>
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+<style type="text/css">
+<!--
+.r {
+display:inline;
+font-weight:normal;
+margin:0;
+font-size:16px;
+margin-top:10px;
+}
+.a{color:green}
+.fl{color:#77c}
+-->
+</style>
+</head>
+<body class="listpage">
+[!--temp.dtheader--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>现在的位置：<a href="[!--news.url--]" class="classlinkclass">首页</a>&nbsp;>&nbsp;<a href="[!--news.url--]search/" class="classlinkclass">高级搜索</a>&nbsp;>&nbsp;搜索结果</td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><form action='../../search/index.php' method="post" name="search_news" id="search_news">
+							<table width="100%" border="0" cellspacing="6" cellpadding="0">
+								<input type="hidden" name="show" value="title" />
+								<tr>
+									<td height="32">关键字：
+										<input name="keyboard" type="text" id="keyboard" value="[!--keyboard--]" size="42" />
+										<input type="submit" name="Submit22" value="搜索" />
+										&nbsp;
+										<input type="button" name="Submit" value="高级搜索" onclick="self.location.href='../../../search/'" />
+										(多个关键字请用&quot;空格&quot;隔开) </td>
+								</tr>
+							</table>
+						</form>
+						<table width="100%" border="0" cellpadding="0" cellspacing="6">
+							<tr>
+								<td>系统搜索到约有<strong>[!--ecms.num--]</strong>项符合<strong>[!--keyboard--]</strong>的查询结果</td>
+							</tr>
+						</table>
+						[!--empirenews.listtemp--]
+						<!--list.var1-->
+						[!--empirenews.listtemp--]
+						<table width="100%" border="0" cellspacing="0" cellpadding="0" class="list_page">
+							<tr>
+								<td>[!--show.page--]</td>
+							</tr>
+						</table></td>
+				</tr>
+			</table></td>
+	</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->180<!---ecms.field--->1<!---ecms.field---><h2 class="r"><span>[!--no.num--].</span> <a class="l" href="[!--titleurl--]" target="_blank">[!--title--]</a></h2>
+<table width="80%" border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>[!--smalltext--]</td>
+		</tr>
+		<tr>
+			<td><span class="a">[!--titleurl--] - [!--newstime--]</span> - <a class="fl" href="[!--this.classlink--]" target="_blank">[!--this.classname--]</a></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<!---ecms.field--->1<!---ecms.field--->1<!---ecms.field--->Y-m-d<!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record---><!---ecms.temp--->1<!---ecms.field--->header<!---ecms.field--->页面头部<!---ecms.field---><header>
+  <nav id="nav">
+    <ul>
+      <li><a href="[!--news.url--]">首页</a></li>
+      [showclasstemp]'0',12,0,0[/showclasstemp] 
+    </ul>
+    <script src="[!--news.url--]skin/blog/js/silder.js"></script><!--获取当前页导航 高亮显示标题--> 
+  </nav>
+</header>
+<!--header end-->
+<!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->1<!---ecms.record--->2<!---ecms.field--->footer<!---ecms.field--->页面尾部<!---ecms.field---><footer>
+  <div class="footer-mid">
+    <div class="links">
+      <h2>友情链接</h2>
+      <ul>
+[phomelink]9,18,2,0,1[/phomelink] 
+      </ul>
+    </div>
+    <div class="visitors">
+      <h2>最新评论</h2>
+      <dl>
+        <dt><img src="[!--news.url--]skin/blog/images/s8.jpg">
+        <dt>
+        <dd>DanceSmile
+          <time>49分钟前</time>
+        </dd>
+        <dd>在 <a href="http://www.yangqq.com/jstt/bj/2013-07-28/530.html" class="title">如果要学习web前端开发，需要学习什么？ </a>中评论：</dd>
+        <dd>文章非常详细，我很喜欢.前端的工程师很少，我记得几年前yahoo花高薪招聘前端也招不到</dd>
+      </dl>
+      <dl>
+        <dt><img src="[!--news.url--]skin/blog/images/s7.jpg">
+        <dt>
+        <dd>yisa
+          <time>2小时前</time>
+        </dd>
+        <dd>在 <a href="http://www.yangqq.com/news/s/2013-07-31/533.html" class="title">芭蕾女孩的心事儿</a>中评论：</dd>
+        <dd>我手机里面也有这样一个号码存在</dd>
+      </dl>
+      <dl>
+        <dt><img src="[!--news.url--]skin/blog/images/s6.jpg">
+        <dt>
+        <dd>小林博客
+          <time>8月7日</time>
+        </dd>
+        <dd>在 <a href="http://www.yangqq.com/jstt/bj/2013-06-18/285.html" class="title">如果个人博客网站再没有价值，你还会坚持吗？ </a>中评论：</dd>
+        <dd>博客色彩丰富，很是好看</dd>
+      </dl>
+    </div>
+    <section class="flickr">
+      <h2>摄影作品</h2>
+      <ul>
+ [ecmsinfo]7,9,0,0,3,14,1,0[/ecmsinfo]
+      </ul>
+    </section>
+  </div>
+  <div class="footer-bottom">
+    <p>Copyright 2013 Design by <a href="http://www.yangqq.com">DanceSmile</a></p>
+  </div>
+</footer>
+<!-- jQuery仿腾讯回顶部和建议 代码开始 -->
+<div id="tbox"> <a id="togbook" href="/e/tool/gbook/?bid=1"></a> <a id="gotop" href="javascript:void(0)"></a> </div>
+<!-- 代码结束 -->
+</body>
+</html><!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->3<!---ecms.field--->dtheader<!---ecms.field--->动态页面头部<!---ecms.field---><!-- 页头 -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="top">
+<tr>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="63%">
+<!-- 登录 -->
+<script>
+document.write('<script src="[!--news.url--]e/member/login/loginjs.php?t='+Math.random()+'"><'+'/script>');
+</script>
+</td>
+<td align="right">
+<a onclick="window.external.addFavorite(location.href,document.title)" href="#ecms">加入收藏</a> | <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('[!--news.url--]')" href="#ecms">设为首页</a> | <a href="[!--news.url--]e/member/cp/">会员中心</a> | <a href="[!--news.url--]e/DoInfo/">我要投稿</a> | <a href="[!--news.url--]e/web/?type=rss2" target="_blank">RSS<img src="[!--news.url--]skin/default/images/rss.gif" border="0" hspace="2" /></a>
+</td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="10">
+<tr valign="middle">
+<td width="240" align="center"><a href="[!--news.url--]"><img src="[!--news.url--]skin/default/images/logo.gif" width="200" height="65" border="0" /></a></td>
+<td align="center"><a href="http://www.phome.net/OpenSource/" target="_blank"><img src="[!--news.url--]skin/default/images/opensource.gif" width="100%" height="70" border="0" /></a></td>
+</tr>
+</table>
+<!-- 导航tab选项卡 -->
+<table width="920" border="0" align="center" cellpadding="0" cellspacing="0" class="nav">
+  <tr> 
+    <td class="nav_global"><ul>
+        <li class="curr" id="tabnav_btn_0" onmouseover="tabit(this)"><a href="[!--news.url--]">首页</a></li>
+        <li id="tabnav_btn_1" onmouseover="tabit(this)"><a href="[!--news.url--]news/">新闻中心</a></li>
+        <li id="tabnav_btn_2" onmouseover="tabit(this)"><a href="[!--news.url--]download/">下载中心</a></li>
+        <li id="tabnav_btn_3" onmouseover="tabit(this)"><a href="[!--news.url--]movie/">影视频道</a></li>
+        <li id="tabnav_btn_4" onmouseover="tabit(this)"><a href="[!--news.url--]shop/">网上商城</a></li>
+        <li id="tabnav_btn_5" onmouseover="tabit(this)"><a href="[!--news.url--]flash/">FLASH频道</a></li>
+        <li id="tabnav_btn_6" onmouseover="tabit(this)"><a href="[!--news.url--]photo/">图片频道</a></li>
+        <li id="tabnav_btn_7" onmouseover="tabit(this)"><a href="[!--news.url--]article/">文章中心</a></li>
+        <li id="tabnav_btn_8" onmouseover="tabit(this)"><a href="[!--news.url--]info/">分类信息</a></li>
+      </ul></td>
+  </tr>
+</table><!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->4<!---ecms.field--->infoarea<!---ecms.field--->分类信息区域导航<!---ecms.field---><table width="96%" border="0" align="center" cellpadding="0" cellspacing="4">
+	<tr>
+		<td width="33%"><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=东城区">东城区</a></td>
+		<td width="33%"><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=西城区">西城区</a></td>
+		<td width="33%"><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=通州区">通州区</a></td>
+	</tr>
+	<tr>
+		<td><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=崇文区">崇文区</a></td>
+		<td><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=宣武区">宣武区</a></td>
+		<td><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=大兴区">大兴区</a></td>
+	</tr>
+	<tr>
+		<td><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" /><a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=朝阳区">&nbsp;朝阳区</a></td>
+		<td><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=海淀区">海淀区</a></td>
+		<td><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=昌平区">昌平区</a></td>
+	</tr>
+	<tr>
+		<td><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=丰台区">丰台区</a></td>
+		<td><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=石景山区">石景山区</a></td>
+		<td><img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo.php?classid=[!--self.classid--]&ph=1&myarea=其它">其它</a></td>
+	</tr>
+</table><!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->5<!---ecms.field--->infoclassnav<!---ecms.field--->分类信息分类导航<!---ecms.field---><table width="100%" border="0" cellpadding="4" cellspacing="0">
+  <tr>
+    <td bgcolor="#EEF1F4">&nbsp;<img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo/?classid=10"><strong>房屋信息</strong></a></td>
+  </tr> 
+</table>
+<table width="96%" border="0" align="center" cellpadding="0" cellspacing="4">
+  <tr>
+    <td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=11">房屋求租</a></td>
+    <td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=12">房屋出租</a></td>
+  		<td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=15">办公用房</a></td>
+  </tr>
+  <tr>
+    <td><a href="[!--news.url--]e/action/ListInfo/?classid=13">房屋求购</a></td>
+    <td><a href="[!--news.url--]e/action/ListInfo/?classid=14">房屋出售</a></td>
+  		<td><a href="[!--news.url--]e/action/ListInfo/?classid=16">旺铺门面</a></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="4" bgcolor="#EEF1F4">
+  <tr>
+    <td>&nbsp;<img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo/?classid=17"><strong>跳蚤市场</strong></a></td>
+  </tr>
+</table>
+<table width="96%" border="0" align="center" cellpadding="0" cellspacing="4">
+  <tr>
+    <td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=18">电脑配件</a></td>
+    <td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=19">电器数码</a></td>
+  		<td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=21">居家用品</a></td>
+  </tr>
+  <tr>
+    <td><a href="[!--news.url--]e/action/ListInfo/?classid=20">通讯产品</a></td>
+    <td><a href="[!--news.url--]e/action/ListInfo/?classid=21"></a></td>
+  		<td>&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#EEF1F4">
+  <tr>
+    <td>&nbsp;<img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo/?classid=22"><strong>同城生活</strong></a></td>
+  </tr>
+</table>
+<table width="96%" border="0" align="center" cellpadding="0" cellspacing="4">
+  <tr>
+    <td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=23">本地新闻</a></td>
+    <td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=24">购物打折</a></td>
+  		<td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=26">便民告示</a></td>
+  </tr>
+  <tr>
+    <td><a href="[!--news.url--]e/action/ListInfo/?classid=25">旅游活动</a></td>
+    <td>&nbsp;</td>
+  		<td>&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#EEF1F4">
+  <tr>
+    <td>&nbsp;<img src="[!--news.url--]e/data/images/msgnav.gif" width="5" height="5" />&nbsp;<a href="[!--news.url--]e/action/ListInfo/?classid=27"><strong>求职招聘</strong></a></td>
+  </tr>
+</table>
+<table width="96%" border="0" align="center" cellpadding="0" cellspacing="4">
+  <tr>
+    <td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=28">工程技术</a></td>
+    <td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=29">财务会计</a></td>
+  		<td width="33%"><a href="[!--news.url--]e/action/ListInfo/?classid=31">经营管理</a></td>
+  </tr>
+  <tr>
+    <td><a href="[!--news.url--]e/action/ListInfo/?classid=30">餐饮行业</a></td>
+    <td><a href="[!--news.url--]e/action/ListInfo/?classid=31"></a></td>
+  		<td>&nbsp;</td>
+  </tr>
+</table><!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->7<!---ecms.field--->pl<!---ecms.field--->评论表单<!---ecms.field---><script>
+		  function CheckPl(obj)
+		  {
+		  if(obj.saytext.value=="")
+		  {
+		  alert("您没什么话要说吗？");
+		  obj.saytext.focus();
+		  return false;
+		  }
+		  return true;
+		  }
+		  </script><form action="[!--news.url--]e/pl/doaction.php" method="post" name="saypl" id="saypl" onsubmit="return CheckPl(document.saypl)">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="plpost">
+
+<tr>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="title">
+<tr>
+<td><strong>发表评论</strong></td>
+<td align="right"><a href="[!--news.url--]e/pl/?classid=[!--classid--]&amp;id=[!--id--]">共有<span><script type="text/javascript" src="[!--news.url--]e/public/ViewClick/?classid=[!--classid--]&id=[!--id--]&down=2"></script></span>条评论</a></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td><table width="100%" border="0" cellpadding="0" cellspacing="2">
+<tr>
+<td width="56%" align="left">用户名:
+<input name="username" type="text" class="inputText" id="username" value="" size="16" /></td>
+<td width="44%" align="left">密码:
+<input name="password" type="password" class="inputText" id="password" value="" size="16" /></td>
+</tr>
+<tr>
+<td align="left">验证码:
+<input name="key" type="text" class="inputText" size="10" />
+<img src="[!--news.url--]e/ShowKey/?v=pl" align="absmiddle" /> </td>
+<td align="left"><input name="nomember" type="checkbox" id="nomember" value="1" checked="checked" />
+匿名发表</td>
+</tr>
+</table>
+<textarea name="saytext" rows="6" id="saytext"></textarea><input name="imageField" type="image" src="[!--news.url--]e/data/images/postpl.gif"/>
+<input name="id" type="hidden" id="id" value="[!--id--]" />
+<input name="classid" type="hidden" id="classid" value="[!--classid--]" />
+<input name="enews" type="hidden" id="enews" value="AddPl" />
+<input name="repid" type="hidden" id="repid" value="0" />
+<input type="hidden" name="ecmsfrom" value="[!--titleurl--]"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table></form><!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record--->8<!---ecms.field--->r<!---ecms.field--->右栏<!---ecms.field---> <div class="tuijian">
+        <h2>推荐文章</h2>
+        <ol>
+              [ecmsinfo]0,9,0,0,5,3,0[/ecmsinfo]
+        </ol>
+      </div>
+      <div class="toppic">
+        <h2>图文并茂</h2>
+        <ul>
+       [ecmsinfo]0,3,0,0,3,13,1,0[/ecmsinfo]
+        </ul>
+      </div>
+      <div class="clicks">
+        <h2>热门点击</h2>
+        <ol>
+    [ecmsinfo]0,9,0,0,4,10,0[/ecmsinfo] 
+        </ol>
+      </div><!---ecms.field--->0<!---ecms.field--->0<!---ecms.field--->0<!---ecms.record---><!---ecms.temp--->1<!---ecms.field--->默认投票模板<!---ecms.field---><table width=100% border=0 align=center cellpadding=3 cellspacing=0><form name=enewsvote method=POST action='[!--vote.action--]' target=_blank><tr><td><strong>[!--title--]</strong></td></tr><input type=hidden name=voteid value='[!--voteid--]'><input type=hidden name=enews value=AddVote>
+[!--empirenews.listtemp--]
+<tr><td>[!--vote.box--]&nbsp;[!--vote.name--]</td></tr>
+[!--empirenews.listtemp--]
+<tr><td align=center><input type=submit name=submit value=投票>&nbsp;&nbsp;<input type=button name=button value=查看结果 onclick=javascript:window.open('[!--vote.view--]','','width=[!--width--],height=[!--height--],scrollbars=yes');></td></tr></form></table><!---ecms.record--->2<!---ecms.field--->默认信息投票模板<!---ecms.field---><table width='100%' border=0 align=center cellpadding=3 cellspacing=0><form name=enewsvote method=POST action='[!--news.url--]e/enews/index.php' target=_blank><tr><td><strong>[!--title--]</strong></td></tr><input type=hidden name=id value='[!--id--]'><input type=hidden name=classid value='[!--classid--]'><input type=hidden name=enews value=AddInfoVote>
+[!--empirenews.listtemp--]
+<tr><td>[!--vote.box--]&nbsp;[!--vote.name--]</td></tr>
+[!--empirenews.listtemp--]
+<tr><td align=center><input type=submit name=submit value=投票>&nbsp;&nbsp;<input type=button name=button value=查看结果 onclick=javascript:window.open('[!--news.url--]e/public/vote/?classid=[!--classid--]&id=[!--id--]','','width=[!--width--],height=[!--height--],scrollbars=yes');></td></tr></form></table><!---ecms.record---><!---ecms.temp--->1<!---ecms.field--->通用一级栏目模板<!---ecms.field---><!doctype html>
+<html>
+<head>
+<meta charset="gb2312">
+<title>[!--pagetitle--]</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/blog/css/styles.css" rel="stylesheet">
+<link href="[!--news.url--]skin/blog/css/view.css" rel="stylesheet">
+<!-- 返回顶部调用 begin -->
+<link href="[!--news.url--]skin/blog/css/lrtk.css" rel="stylesheet" />
+<script type="text/javascript" src="[!--news.url--]skin/blog/js/jquery.js"></script>
+<script type="text/javascript" src="[!--news.url--]skin/blog/js/js.js"></script>
+<!-- 返回顶部调用 end-->
+<!--[if lt IE 9]>
+<script src="[!--news.url--]skin/blog/js/modernizr.js"></script>
+<![endif]-->
+</head>
+<body>
+[!--temp.header--]
+<div id="mainbody">
+  <div class="blogs">
+    <div class="newlist">
+  <h2><span>
+[showclasstemp]'selfinfo',15,0,0[/showclasstemp]
+</span>您当前的位置：[!--newsnav--]</h2>
+     <ul>
+[listsonclass]'selfinfo',5,38,0,0,7,0,0[/listsonclass]
+  </ul>
+</div>
+    <!--bloglist end-->
+<aside>
+<div class="search">
+       <form action="[!--news.url--]e/search/index.php" method="post" name="searchform" id="searchform" class="searchform" >
+          <input name="keyboard" type="text" value="Search" onfocus="this.value=''" onblur="this.value='Search'" id="keyboard" ><input type="hidden" name="show" value="title" />
+          <input type="hidden" name="tempid" value="1" /><input name="tbname" type="hidden" value="news">
+        </form>
+      </div>
+      <div class="sunnav">
+        <ul>
+[showclasstemp]'selfinfo',1,0,0[/showclasstemp]
+        </ul>
+      </div>
+[!--temp.r--]
+    </aside>
+  </div>
+  <!--blogs end--> 
+</div>
+[!--temp.footer--]<!---ecms.field--->0<!---ecms.record--->2<!---ecms.field--->分类信息一级栏目模板<!---ecms.field---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<link href="[!--news.url--]skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="[!--news.url--]skin/default/js/tabs.js"></script>
+</head>
+<body class="channle">
+[!--temp.header--]
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td class="news_list"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+<tr>
+<td>您当前的位置：[!--newsnav--]</td>
+</tr>
+</table>
+[listsonclass]'selfinfo',5,38,0,0,7,0,0[/listsonclass]</td>
+<td class="sider"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>分类信息搜索</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><form action="[!--news.url--]e/search/index.php" method="post" name="searchform" id="searchform">
+<table width="98%" border="0" align="center" cellpadding="0" cellspacing="6">
+<input type="hidden" name="tbname" value="info">
+<input type="hidden" name="tempid" value="1">
+<tr>
+<td><input name="keyboard" type="text" class="inputText" id="keyboard" size="18" />
+<select name="show">
+<option value="title,smalltext,myarea" selected="selected">不限</option>
+<option value="title">信息标题</option>
+<option value="smalltext">信息内容</option>
+<option value="myarea">所在地</option>
+</select></td>
+</tr>
+<tr>
+<td><select name="classid">
+<option value='9'>所有分类</option>
+<option value='10'>|-房屋信息</option>
+<option value='11' >&nbsp;&nbsp;|-房屋求租</option>
+<option value='12' >&nbsp;&nbsp;|-房屋出租</option>
+<option value='13' >&nbsp;&nbsp;|-房屋求购</option>
+<option value='14' >&nbsp;&nbsp;|-房屋出售</option>
+<option value='15' >&nbsp;&nbsp;|-办公用房</option>
+<option value='16' >&nbsp;&nbsp;|-旺铺门面</option>
+<option value='17'>|-跳蚤市场</option>
+<option value='18' >&nbsp;&nbsp;|-电脑配件</option>
+<option value='19' >&nbsp;&nbsp;|-电器数码</option>
+<option value='20' >&nbsp;&nbsp;|-通讯产品</option>
+<option value='21' >&nbsp;&nbsp;|-居家用品</option>
+<option value='22'>|-同城生活</option>
+<option value='23' >&nbsp;&nbsp;|-本地新闻</option>
+<option value='24' >&nbsp;&nbsp;|-购物打折</option>
+<option value='25' >&nbsp;&nbsp;|-旅游活动</option>
+<option value='26' >&nbsp;&nbsp;|-便民告示</option>
+<option value='27'>|-求职招聘</option>
+<option value='28' >&nbsp;&nbsp;|-工程技术</option>
+<option value='29' >&nbsp;&nbsp;|-财务会计</option>
+<option value='30' >&nbsp;&nbsp;|-餐饮行业</option>
+<option value='31' >&nbsp;&nbsp;|-经营管理</option>
+</select>
+<input name="Submit2" type="image" value="搜索" src="[!--news.url--]skin/default/images/search.gif" />　
+[<a href="[!--news.url--]e/DoInfo/ChangeClass.php?mid=8" target="_blank">发布信息</a>]</td>
+</tr>
+</table>
+</form></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title">
+<tr>
+<td><strong>地区导航</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td>[!--temp.infoarea--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>分类导航</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td>[!--temp.infoclassnav--]</td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
+<tr>
+<td><strong>热门点击</strong></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+<tr>
+<td><ol class="rank">
+[ecmsinfo]'selfinfo',10,40,0,1,10,0[/ecmsinfo] 
+</ol></td>
+</tr>
+</table></td>
+</tr>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->0<!---ecms.record---><!---ecms.temp--->1<!---ecms.field--->默认评论列表模板<!---ecms.field---><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<style type="text/css">
+<!--
+body,Table{ color: #222; font-size: 12px; }
+a { color: #222; text-decoration: none; }
+a:hover { color: #f00; text-decoration: underline; }
+h1 { font-size:32px; font-weight: bold; }
+h2 { color: #1e3a9e; font-size: 25px; font-weight: bold;  }
+.you { color: #1f3a87; font-size: 14px; }
+.text { font-size: 14px; padding-left: 5px; padding-right: 5px; line-height: 20px}
+.re a { color: #1f3a87; }
+.name { color: #1f3a87; }
+.name a { color: #1f3a87; text-decoration: underline;}
+.retext { background-color: #f3f3f3; width: 100%; float: left; padding-top: 22px; padding-bottom: 22px; border-top: 1px solid #ccc; }
+.retext textarea { width: 535px; height: 130px; float: left; margin-left: 60px; border-top-style: inset; border-top-width: 2px; border-left-style: inset; border-left-width: 2px; }
+.hrLine{BORDER-BOTTOM: #807d76 1px dotted;}
+
+.ecomment {margin:0;padding:0;}
+.ecomment {margin-bottom:12px;overflow-x:hidden;overflow-y:hidden;padding-bottom:3px;padding-left:3px;padding-right:3px;padding-top:3px;background:#FFFFEE;padding:3px;border:solid 1px #999;}
+.ecommentauthor {float:left; color:#F96; font-weight:bold;}
+.ecommenttext {clear:left;margin:0;padding:0;}
+-->
+</style>
+<script src="[!--news.url--]e/data/js/ajax.js"></script>
+</head>
+
+<body topmargin="0">
+<table width="766" border="0" align="center" cellpadding="3" cellspacing="1">
+  <tr>
+    <td width="210"><a href="[!--news.url--]"><img src="[!--news.url--]skin/default/images/logo.gif" border="0" /></a></td>
+    <td><h1>网友评论</h1></td>
+    <td><div align="right"><a href="#tosaypl"><strong><font color="#FF0000">我也评两句</font></strong></a></div></td>
+  </tr>
+</table>
+<table width="766" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#222">
+  <tr>
+    <td height="2"></td>
+  </tr>
+</table>
+<table width="766" border="0" align="center" cellpadding="3" cellspacing="1">
+  <tr> 
+    <td height="42"> 
+      <h2>评论：<a href="[!--titleurl--]" target="_blank"><font color="#1e3a9e">[!--title--]</font></a></h2></td>
+    <td><div align="right"><a href="[!--titleurl--]" target="_blank">查看原文</a></div></td>
+  </tr>
+</table>
+<hr align="center" width="766" size=1 class=hrline>
+<table width="766" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#384EA3">
+  <form action="../enews/index.php" method="post" name="infopfenform">
+    <input type="hidden" name="enews" value="AddInfoPfen" />
+    <input type="hidden" name="classid" value="[!--classid--]" />
+    <input type="hidden" name="id" value="[!--id--]" />
+    <tr> 
+      <td width="50%" height="27" valign="middle"><font color="#FFFFFF">&nbsp;评分: 
+        <input type="radio" name="fen" value="1">
+        1分 
+        <input type="radio" name="fen" value="2">
+        2分 
+        <input name="fen" type="radio" value="3" checked>
+        3分 
+        <input type="radio" name="fen" value="4">
+        4分 
+        <input type="radio" name="fen" value="5">
+        5分 
+        <input type="submit" name="Submit" value="提交">
+        </font></td>
+      <td width="50%" valign="middle"><div align="center"><font color="#FFFFFF">平均得分: 
+          <strong><span id="pfendiv">[!--pinfopfen--]</span></strong> 分，共有 <strong>[!--infopfennum--]</strong> 
+          人参与评分</font></div></td>
+    </tr>
+  </form>
+</table>
+<table width="766" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#CCCCCC">
+  <tr> 
+    <td height="30" bgcolor="#FFFFFF"> 
+      <table width="100%" border="0" cellspacing="1" cellpadding="3">
+        <tr> 
+          <td width="17%">&nbsp;&nbsp;&nbsp;网友评论</td>
+          <td width="83%"><div align="right">[!--listpage--]&nbsp;&nbsp;&nbsp;</div></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#f8fcff"> [!--empirenews.listtemp--] 
+      <table width="96%" border="0" align="center" cellpadding="3" cellspacing="1" style="word-break:break-all; word-wrap:break-all;">
+        <tr> 
+          <td height="30"><span class="name">本站网友 [!--username--]</span> <font color="#666666">ip:[!--plip--]</font></td>
+          <td><div align="right"><font color="#666666">[!--pltime--] 发表</font></div></td>
+        </tr>
+        <tr valign="top"> 
+          <td height="50" colspan="2" class="text">[!--pltext--]</td>
+        </tr>
+        <tr> 
+          <td height="30">&nbsp;</td>
+          <td><div align="right" class="re"><a href="#tosaypl"[!--includelink--]>回复</a>&nbsp; 
+              <a href="JavaScript:makeRequest('../pl/doaction.php?enews=DoForPl&plid=[!--plid--]&classid=[!--classid--]&id=[!--id--]&dopl=1&doajax=1&ajaxarea=zcpldiv[!--plid--]','EchoReturnedText','GET','');">支持</a>[<span id="zcpldiv[!--plid--]">[!--zcnum--]</span>]&nbsp; 
+              <a href="JavaScript:makeRequest('../pl/doaction.php?enews=DoForPl&plid=[!--plid--]&classid=[!--classid--]&id=[!--id--]&dopl=0&doajax=1&ajaxarea=fdpldiv[!--plid--]','EchoReturnedText','GET','');">反对</a>[<span id="fdpldiv[!--plid--]">[!--fdnum--]</span>]
+            </div></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="1" cellpadding="3">
+        <tr>
+          <td background="[!--news.url--]skin/default/images/plhrbg.gif"></td>
+        </tr>
+      </table>
+      [!--empirenews.listtemp--] 
+      <div align="right"><br />
+        [!--listpage--]&nbsp;&nbsp;&nbsp;<br />
+        <br />
+        <font color="#FF0000">网友评论仅供网友表达个人看法，并不表明本站同意其观点或证实其描述&nbsp;&nbsp;&nbsp;</font><br><br> </div></td>
+  </tr>
+  <script>
+  function CheckPl(obj)
+  {
+  	if(obj.saytext.value=="")
+  	{
+  		alert("错误，评论不能为空");
+  		obj.saytext.focus();
+  		return false;
+  	}
+  	return true;
+  }
+  </script>
+  <form action="../pl/doaction.php" method="post" name="saypl" id="saypl" onsubmit="return CheckPl(document.saypl)">
+  <tr id="tosaypl"> 
+    <td bgcolor="#f8fcff"> <table width="100%" border="0" cellspacing="1" cellpadding="3">
+        <tr> 
+            <td width="13%" height="28">&nbsp;&nbsp;&nbsp;<span class="you">我也评两句</span></td>
+            <td valign="middle">用户名： 
+              <input name="username" type="text" id="username" size="12" value="[!--lusername--]" />
+            密码： 
+            <input name="password" type="password" id="password" size="12" value="[!--lpassword--]" />
+            验证码： 
+            <input name="key" type="text" id="key" size="6" />
+              <img src="[!--key.url--]" align="middle" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="[!--news.url--]e/member/register/" target="_blank">还没有注册？</a></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#f8fcff"> <table width="100%" border="0" cellspacing="1" cellpadding="3" class="retext">
+        <tr> 
+          <td width="78%"><div align="center"> 
+              <textarea name="saytext" cols="58" rows="6" id="saytext"></textarea>
+            </div></td>
+          <td width="22%" rowspan="2"> <div align="center">
+              <input name="nomember" type="checkbox" id="nomember" value="1" checked="checked" />
+                匿名发表<br>
+                <br />
+              <input name="imageField" type="submit" id="imageField" value=" 提 交 " />
+            </div></td>
+        </tr>
+        <tr> 
+          <td><div align="center"> 
+              <script src="[!--news.url--]d/js/js/plface.js"></script>
+            </div></td>
+        </tr>
+      </table> </td>
+  </tr>
+  <input name="id" type="hidden" id="id" value="[!--id--]" />
+  <input name="classid" type="hidden" id="classid" value="[!--classid--]" />
+  <input name="enews" type="hidden" id="enews" value="AddPl" />
+  <input name="repid" type="hidden" id="repid" value="0" />
+  </form>
+</table>
+[!--temp.footer--]
+</body>
+</html><!---ecms.field--->1<!---ecms.record---><!---ecms.temp--->1<!---ecms.field--->默认打印模板<!---ecms.field---><html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=gb2312">
+<title>[!--pagetitle--] - Powered by EmpireCMS</title>
+<meta name="keywords" content="[!--pagekey--]" />
+<meta name="description" content="[!--pagedes--]" />
+<style>
+body{font-family:宋体}td,.f12{font-size:12px}.f24 {font-size:24px;}.f14 {font-size:14px;}.title14 {font-size:14px;line-height:130%}.l17 {line-height:170%;}
+</style>
+</head>
+<body bgcolor="#ffffff" topmargin=5 leftmargin=5 marginheight=5 marginwidth=5 onLoad='window.print()'>
+<center>
+<table width=650 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td height=65 width=180><A href="http://www.phome.net/"><IMG src="../../skin/default/images/elogo.jpg" alt="帝国软件" width="180" height="65" border=0></A></td> 
+<td valign="bottom">[!--url--]</td>
+<td width="83" align="right" valign="bottom"><a href='javascript:history.back()'>返回</a>　<a href='javascript:window.print()'>打印</a></td>
+</tr>
+</table>
+<table width=650 border=0 cellpadding=0 cellspacing=20 bgcolor="#EDF0F5">
+<tr>
+<td>
+<BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TH class="f24"><FONT color=#05006c>[!--title--]</FONT></TH></TR>
+<TR>
+<TD>
+<HR SIZE=1 bgcolor="#d9d9d9">
+</TD>
+</TR>
+<TR>
+<TD align="middle" height=20><div align="center">[!--writer--]&nbsp;&nbsp;[!--newstime--]&nbsp;&nbsp;[!--befrom--]</div></TD>
+</TR>
+<TR>
+<TD height=15></TD>
+</TR>
+<TR>
+<TD class="l17">
+<FONT class="f14" id="zoom"> 
+<P>[!--newstext--]<br>
+<BR clear=all>
+</P>
+</FONT>
+</TD>
+</TR>
+<TR height=10>
+<TD></TD>
+</TR>
+</TBODY>
+</TABLE>
+[!--titlelink--]
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html><!---ecms.field--->1<!---ecms.field--->Y-m-d H:i:s<!---ecms.field--->1<!---ecms.record---><!---ecms.temp--->

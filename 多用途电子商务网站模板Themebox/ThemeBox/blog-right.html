@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ThemeBox</title>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+
+    <!-- CSS Global -->
+    <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/plugins/bootstrap-select/css/bootstrap-select.min.css" rel="stylesheet">
+    <link href="assets/plugins/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/plugins/prettyphoto/css/prettyPhoto.css" rel="stylesheet">
+    <link href="assets/plugins/owl-carousel2/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/plugins/owl-carousel2/assets/owl.theme.default.min.css" rel="stylesheet">
+    <link href="assets/plugins/animate/animate.min.css" rel="stylesheet">
+    <link href="assets/plugins/swiper/css/swiper.min.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="assets/css/theme.css" rel="stylesheet">
+    <link href="assets/css/theme-color.css" rel="stylesheet" id="theme-config-link">
+
+    <!-- Head Libs -->
+    <script src="assets/plugins/modernizr.custom.js"></script>
+
+    <!--[if lt IE 9]>
+    <script src="assets/plugins/iesupport/html5shiv.js"></script>
+    <script src="assets/plugins/iesupport/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="home" class="wide">
+<!-- PRELOADER -->
+<div id="preloader">
+    <div id="preloader-status">
+        <div class="spinner">
+            <div class="rect1"></div>
+            <div class="rect2"></div>
+            <div class="rect3"></div>
+            <div class="rect4"></div>
+            <div class="rect5"></div>
+        </div>
+        <div id="preloader-title">Loading</div>
+    </div>
+</div>
+<!-- /PRELOADER -->
+
+<!-- WRAPPER -->
+<div class="wrapper">
+
+    <!-- Popup: Login -->
+    <div class="modal fade popup-login" id="popup-login" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="container">
+
+                <div class="popup-login-items">
+                    <div class="popup-login-items-inner">
+
+                        <form action="#" class="form-login">
+                            <div class="row">
+                                <div class="col-md-12 hello-text-wrap">
+                                    <span class="hello-text text-thin">Hello, welcome to your account</span>
+                                </div>
+                                <div class="col-md-12">
+                                    <a class="btn btn-theme btn-block btn-icon-left facebook" href="#" data-dismiss="modal"><i class="fa fa-facebook"></i>Sign in with Facebook</a>
+                                </div>
+                                <div class="col-md-12">
+                                    <a class="btn btn-theme btn-block btn-icon-left twitter" href="#" data-dismiss="modal"><i class="fa fa-twitter"></i>Sign in with Twitter</a>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-group"><input class="form-control" type="text" placeholder="User name or email"></div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-group"><input class="form-control" type="password" placeholder="Your password"></div>
+                                </div>
+                                <div class="col-md-12 col-lg-6">
+                                    <div class="checkbox">
+                                        <label><input type="checkbox"> Remember me</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 col-lg-6 text-right-lg">
+                                    <a class="forgot-password" href="#">forgot password?</a>
+                                </div>
+                                <div class="clear"></div>
+                                <div class="col-md-6">
+                                    <a href="#" class="btn btn-theme btn-block btn-theme-dark" data-dismiss="modal">Close</a>
+                                </div>
+                                <div class="col-md-6">
+                                    <a class="btn btn-theme btn-block btn-theme-green" href="#" data-dismiss="modal">Login</a>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- /Popup: Login -->
+
+    <!-- Popup: Shopping cart items -->
+    <div class="modal fade popup-cart" id="popup-cart" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="container">
+                <div class="cart-items">
+                    <div class="cart-items-inner">
+                        <div class="media">
+                            <a class="pull-left" href="#"><img class="media-object item-image" src="assets/img/preview/portfolio/portfolio-x1-50x50.jpg" alt=""></a>
+                            <p class="pull-right item-price">$45.00</p>
+                            <div class="media-body">
+                                <h4 class="media-heading item-title"><a href="#">1x Wordpress Template</a></h4>
+                                <p class="item-desc">Lorem ipsum dolor</p>
+                            </div>
+                        </div>
+                        <div class="media">
+                            <p class="pull-right item-price">$45.00</p>
+                            <div class="media-body">
+                                <h4 class="media-heading item-title summary">Subtotal</h4>
+                            </div>
+                        </div>
+                        <div class="media">
+                            <div class="media-body">
+                                <div>
+                                    <a href="#" class="btn btn-theme btn-theme-dark" data-dismiss="modal">Close</a><!--
+                                    --><a href="#" class="btn btn-theme btn-theme-transparent btn-call-checkout">Checkout</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Popup: Shopping cart items -->
+
+    <!-- Popup: Search -->
+    <div class="modal fade popup-search" id="popup-search" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="popup-close-button" data-dismiss="modal" data-target="#popup-search"><i class="fa fa-close"></i></div>
+            <div class="container">
+                <!-- Search form -->
+                <form action="#" class="form-search-templates">
+                    <div class="form-group">
+                        <label for="formSearchTemplatePopup" class="sr-only">Type here to search</label>
+                        <input type="text" class="form-control" id="formSearchTemplatePopup" placeholder="Type here to search a template">
+                    </div>
+                    <button type="submit" class="btn btn-submit btn-theme btn-theme-green">Search</button>
+                </form>
+                <!-- Search form -->
+            </div>
+        </div>
+    </div>
+    <!-- /Popup: Search -->
+
+    <!-- HEADER -->
+    <header class="header fixed">
+        <div class="header-wrapper">
+            <div class="container">
+
+                <!-- Logo -->
+                <div class="logo">
+                    <a href="index.html"><img src="assets/img/logo-themebox.png" alt="ThemeBox"/></a>
+                </div>
+                <!-- /Logo -->
+
+                <!-- Mobile menu toggle button -->
+                <a href="#" class="menu-toggle btn btn-theme-transparent"><i class="fa fa-bars"></i></a>
+                <!-- /Mobile menu toggle button -->
+
+                <!-- Navigation -->
+                <nav class="navigation closed clearfix">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <!-- navigation menu -->
+                            <a href="#" class="menu-toggle-close btn"><i class="fa fa-times"></i></a>
+                            <ul class="nav sf-menu">
+                                <li class="active"><a href="index.html">Home</a>
+                                    <ul>
+                                        <li><a href="index.html">Home 1</a></li>
+                                        <li><a href="index-2.html">Home 2</a></li>
+                                        <li><a href="index-3.html">Home 3</a></li>
+                                        <li><a href="index-4.html">Home 4</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="about.html">About</a></li>
+                                <li><a href="themes.html">Themes</a>
+                                    <ul>
+                                        <li><a href="themes.html">Premium Themes</a>
+                                            <ul>
+                                                <li><a class="sf-with-ul" href="#">WordPress</a></li>
+                                                <li><a class="sf-with-ul" href="#">HTML</a></li>
+                                                <li><a class="sf-with-ul" href="#">Joomla</a></li>
+                                                <li><a class="sf-with-ul" href="#">PSD</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="themes-alt.html">Free Themes</a>
+                                            <ul>
+                                                <li><a class="sf-with-ul" href="#">WordPress</a></li>
+                                                <li><a class="sf-with-ul" href="#">HTML</a></li>
+                                                <li><a class="sf-with-ul" href="#">Joomla</a></li>
+                                                <li><a class="sf-with-ul" href="#">PSD</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="themes-single.html">Theme Details</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="blog-right.html">Blog</a>
+                                    <ul>
+                                        <li><a href="blog-right.html">Blog Sidebar Right</a></li>
+                                        <li><a href="blog-left.html">Blog Sidebar Left</a></li>
+                                        <li><a href="blog-post.html">Blog Single Post</a></li>
+                                    </ul>
+                                </li>
+                                <li class="sale"><a href="#">Pages</a>
+                                    <ul>
+                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="support.html">Support</a></li>
+                                        <li><a href="error-page.html">404 page</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="shop-button" data-toggle="modal" data-target="#popup-cart">
+                                        <span class="shop-button-border">
+                                            <span class="shop-item-number">3</span>
+                                            <i class="fa fa-shopping-cart"></i>
+                                        </span>
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="sign-in-button icon">
+                                        <a href="#" class="" data-toggle="modal" data-target="#popup-login"><i class="fa fa-user"></i></a>
+                                    </span>
+                                </li>
+                            </ul>
+                            <!-- /navigation menu -->
+                        </div>
+                    </div>
+                    <!-- Add Scroll Bar -->
+                    <div class="swiper-scrollbar"></div>
+                </nav>
+                <!-- /Navigation -->
+
+            </div>
+        </div>
+
+    </header>
+    <!-- /HEADER -->
+
+    <!-- CONTENT AREA -->
+    <div class="content-area">
+
+        <!-- BREADCRUMBS -->
+        <section class="page-section breadcrumbs">
+            <div class="container">
+                <div class="row breadcrumbs-row">
+                    <div class="col-xs-8 col-xs-push-2 col-md-4 col-md-push-4 col-page-header">
+                        <div class="page-header">
+                            <h1>Blog Page</h1>
+                        </div>
+                    </div>
+                    <div class="col-xs-8 col-xs-push-2 col-md-4 col-md-pull-4 col-md-push-0 col-breadcrumb">
+                        <ul class="breadcrumb">
+                            <li><i class="fa fa-home"></i> - </li>
+                            <li>Blog</li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-2 col-xs-push-2 col-md-4 col-md-push-0 col-search">
+                        <div class="breadcrumbs-search">
+                            <span class="breadcrumbs-search-btn" data-toggle="modal" data-target="#popup-search"><i class="fa fa-search"></i></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- /BREADCRUMBS -->
+
+        <!-- PAGE WITH SIDEBAR -->
+        <section class="page-section with-sidebar">
+            <div class="container">
+                <div class="row">
+                    <!-- CONTENT -->
+                    <div class="col-md-8 content" id="content">
+
+                        <!-- Blog posts -->
+                        <article class="post-wrap">
+                            <div class="post-media">
+                                <a href="assets/img/preview/blog/blog-post-870x370x1.jpg" data-gal="prettyPhoto"><img src="assets/img/preview/blog/blog-post-870x370x1.jpg" alt=""></a>
+                            </div>
+                            <div class="post-header">
+                                <h2 class="post-title"><a href="#">Sample Post With Featured Image</a></h2>
+                                <div class="post-meta">By <a href="#">author name here</a> / 6th June 2016 / in <a href="#">Design</a>, <a href="#">Photography</a> / <a href="#">27 Comments</a> / 18 Likes / <a href="#">Share This Post</a></div>
+                            </div>
+                            <div class="post-body">
+                                <div class="post-excerpt">
+                                    <p>Fusce gravida interdum eros a mollis. Sed non lorem varius, volutpat nisl in, laoreet ante. Quisque suscipit mauris ipsum, eu mollis arcu laoreet vel. In posuere odio sed libero tincidunt commodo a vel ipsum. Mauris fringilla tellus aliquam, egestas sem in, malesuada nunc. Etiam condimentum felis odio, vel mollis est tempor non...</p>
+                                </div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-read-more"><a href="#" class="btn btn-theme btn-theme-transparent btn-icon-left">Read more</a></span>
+                            </div>
+                        </article>
+                        <!-- / -->
+                        <article class="post-wrap">
+                            <div class="post-media">
+                                <div class="owl-carousel img-carousel">
+                                    <div class="item"><a href="assets/img/preview/blog/blog-post-870x370x2.jpg" data-gal="prettyPhoto"><img class="img-responsive" src="assets/img/preview/blog/blog-post-870x370x2.jpg" alt=""/></a></div>
+                                    <div class="item"><a href="assets/img/preview/blog/blog-post-870x370x3.jpg" data-gal="prettyPhoto"><img class="img-responsive" src="assets/img/preview/blog/blog-post-870x370x3.jpg" alt=""/></a></div>
+                                    <div class="item"><a href="assets/img/preview/blog/blog-post-870x370x1.jpg" data-gal="prettyPhoto"><img class="img-responsive" src="assets/img/preview/blog/blog-post-870x370x1.jpg" alt=""/></a></div>
+                                    <div class="item"><a href="assets/img/preview/blog/blog-post-870x370x2.jpg" data-gal="prettyPhoto"><img class="img-responsive" src="assets/img/preview/blog/blog-post-870x370x2.jpg" alt=""/></a></div>
+                                </div>
+                            </div>
+                            <div class="post-header">
+                                <h2 class="post-title"><a href="#">Standard Blog Post with Image Slider Header</a></h2>
+                                <div class="post-meta">By <a href="#">author name here</a> / 6th June 2016 / in <a href="#">Design</a>, <a href="#">Photography</a> / <a href="#">27 Comments</a> / 18 Likes / <a href="#">Share This Post</a></div>
+                            </div>
+                            <div class="post-body">
+                                <div class="post-excerpt">
+                                    <p>Fusce gravida interdum eros a mollis. Sed non lorem varius, volutpat nisl in, laoreet ante. Quisque suscipit mauris ipsum, eu mollis arcu laoreet vel. In posuere odio sed libero tincidunt commodo a vel ipsum. Mauris fringilla tellus aliquam, egestas sem in, malesuada nunc. Etiam condimentum felis odio, vel mollis est tempor non...</p>
+                                </div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-read-more"><a href="#" class="btn btn-theme btn-theme-transparent btn-icon-left">Read more</a></span>
+                            </div>
+                        </article>
+                        <!-- / -->
+                        <article class="post-wrap">
+                            <div class="post-media">
+                                <a href="http://youtu.be/kg-clmeHBrM" data-gal="prettyPhoto" class="media-link">
+                                    <span class="btn btn-play"><i class="fa fa-play"></i></span>
+                                    <img src="assets/img/preview/blog/blog-post-870x370x3.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="post-header">
+                                <h2 class="post-title"><a href="#">Standard Video Blog Post Header</a></h2>
+                                <div class="post-meta">By <a href="#">author name here</a> / 6th June 2016 / in <a href="#">Design</a>, <a href="#">Photography</a> / <a href="#">27 Comments</a> / 18 Likes / <a href="#">Share This Post</a></div>
+                            </div>
+                            <div class="post-body">
+                                <div class="post-excerpt">
+                                    <p>Fusce gravida interdum eros a mollis. Sed non lorem varius, volutpat nisl in, laoreet ante. Quisque suscipit mauris ipsum, eu mollis arcu laoreet vel. In posuere odio sed libero tincidunt commodo a vel ipsum. Mauris fringilla tellus aliquam, egestas sem in, malesuada nunc. Etiam condimentum felis odio, vel mollis est tempor non...</p>
+                                </div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-read-more"><a href="#" class="btn btn-theme btn-theme-transparent btn-icon-left">Read more</a></span>
+                            </div>
+                        </article>
+                        <!-- / -->
+                        <article class="post-wrap">
+                            <div class="post-media">
+                                <blockquote>
+                                    <p>Fusce gravida interdum eros a mollis. Sed non lorem varius, volutpat nisl in, laoreet ante. Quisque suscipit mauris ipsum, eu mollis arcu laoreet vel. </p>
+                                    <footer><cite title="Source Title">ISA MERCAN</cite></footer>
+                                </blockquote>
+                            </div>
+                            <div class="post-header">
+                                <div class="post-meta">By <a href="#">author name here</a> / 6th June 2016 / in <a href="#">Design</a>, <a href="#">Photography</a> / <a href="#">27 Comments</a> / 18 Likes / <a href="#">Share This Post</a></div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-read-more"><a href="#" class="btn btn-theme btn-theme-transparent btn-icon-left">Read more</a></span>
+                            </div>
+                        </article>
+                        <!-- / -->
+                        <article class="post-wrap">
+                            <div class="post-media">
+                                <!-- 16:9 aspect ratio -->
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe class="embed-responsive-item" src="//player.vimeo.com/video/113101251"></iframe>
+                                </div>
+                            </div>
+                            <div class="post-header">
+                                <h2 class="post-title"><a href="#">Standard Vimeo Video Blog Post Header</a></h2>
+                                <div class="post-meta">By <a href="#">author name here</a> / 6th June 2016 / in <a href="#">Design</a>, <a href="#">Photography</a> / <a href="#">27 Comments</a> / 18 Likes / <a href="#">Share This Post</a></div>
+                            </div>
+                            <div class="post-body">
+                                <div class="post-excerpt">
+                                    <p>Fusce gravida interdum eros a mollis. Sed non lorem varius, volutpat nisl in, laoreet ante. Quisque suscipit mauris ipsum, eu mollis arcu laoreet vel. In posuere odio sed libero tincidunt commodo a vel ipsum. Mauris fringilla tellus aliquam, egestas sem in, malesuada nunc. Etiam condimentum felis odio, vel mollis est tempor non...</p>
+                                </div>
+                            </div>
+                            <div class="post-footer">
+                                <span class="post-read-more"><a href="#" class="btn btn-theme btn-theme-transparent btn-icon-left">Read more</a></span>
+                            </div>
+                        </article>
+
+                        <!-- /Blog posts -->
+
+                        <!-- Pagination -->
+                        <div class="pagination-wrapper">
+                            <ul class="pagination">
+                                <li class="disabled"><a href="#"><i class="fa fa-angle-double-left"></i> Previous</a></li>
+                                <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
+                                <li><a href="#">2</a></li>
+                                <li><a href="#">3</a></li>
+                                <li><a href="#">4</a></li>
+                                <li><a href="#">Next <i class="fa fa-angle-double-right"></i></a></li>
+                            </ul>
+                        </div>
+                        <!-- /Pagination -->
+
+                    </div>
+                    <!-- /CONTENT -->
+
+                    <!-- SIDEBAR -->
+                    <aside class="col-md-4 sidebar" id="sidebar">
+                    <!-- widget search -->
+                    <div class="widget">
+                        <div class="widget-search">
+                            <input class="form-control" type="text" placeholder="Search">
+                            <button><i class="fa fa-search"></i></button>
+                        </div>
+                    </div>
+                    <!-- /widget search -->
+                    <!-- widget theme categories -->
+                    <div class="widget shadow car-categories">
+                        <h4 class="widget-title">Categories</h4>
+                        <div class="widget-content">
+                            <ul>
+                                <li>
+                                    <span class="arrow"><i class="fa fa-angle-down"></i></span>
+                                    <a href="#">Category name</a>
+                                    <ul class="children">
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="arrow"><i class="fa fa-angle-down"></i></span>
+                                    <a href="#">Category name</a>
+                                    <ul class="children">
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="arrow"><i class="fa fa-angle-down"></i></span>
+                                    <a href="#">Category name</a>
+                                    <ul class="children">
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="arrow"><i class="fa fa-angle-down"></i></span>
+                                    <a href="#">Category name</a>
+                                    <ul class="children">
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="arrow"><i class="fa fa-angle-up"></i></span>
+                                    <a href="#">Category name</a>
+                                    <ul class="children active">
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                        <li><a href="#">Sub category<span class="count">12</span></a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#">Category name</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- /widget theme categories -->
+                    <!-- widget helping center -->
+                    <div class="widget shadow widget-helping-center">
+                        <h4 class="widget-title">Helping Center</h4>
+                        <div class="widget-content">
+                            <p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros.</p>
+                            <h5 class="widget-title-sub">+90 555 444 66 33</h5>
+                            <p><a href="mailto:support@supportcenter.com">support@supportcenter.com</a></p>
+                            <div class="button">
+                                <a href="#" class="btn btn-block btn-theme btn-theme-dark">Support Center</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /widget helping center -->
+                    <!-- widget tabs -->
+                    <div class="widget widget-tabs alt">
+                        <div class="widget-content">
+                            <ul id="tabs" class="nav nav-justified">
+                                <li><a href="#tab-s1" data-toggle="tab">Recent posts</a></li>
+                                <li class="active"><a href="#tab-s2" data-toggle="tab">Popular post</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <!-- tab 1 -->
+                                <div class="tab-pane fade" id="tab-s1">
+                                    <div class="recent-post">
+                                        <div class="media">
+                                            <a class="pull-left media-link" href="#">
+                                                <img class="media-object" src="assets/img/preview/blog/recent-post-70x70x1.jpg" alt="">
+                                                <i class="fa fa-plus"></i>
+                                            </a>
+                                            <div class="media-body">
+                                                <div class="media-meta">
+                                                    6th June 2016
+                                                    <span class="divider">/</span><a href="#"><i class="fa fa-comment"></i>27</a>
+                                                </div>
+                                                <h4 class="media-heading"><a href="#">Standard Blog Post Header</a></h4>
+                                            </div>
+                                        </div>
+                                        <div class="media">
+                                            <a class="pull-left media-link" href="#">
+                                                <img class="media-object" src="assets/img/preview/blog/recent-post-70x70x2.jpg" alt="">
+                                                <i class="fa fa-plus"></i>
+                                            </a>
+                                            <div class="media-body">
+                                                <div class="media-meta">
+                                                    6th June 2016
+                                                    <span class="divider">/</span><a href="#"><i class="fa fa-comment"></i>27</a>
+                                                </div>
+                                                <h4 class="media-heading"><a href="#">Standard Blog Post Header</a></h4>
+                                            </div>
+                                        </div>
+                                        <div class="media">
+                                            <a class="pull-left media-link" href="#">
+                                                <img class="media-object" src="assets/img/preview/blog/recent-post-70x70x3.jpg" alt="">
+                                                <i class="fa fa-plus"></i>
+                                            </a>
+                                            <div class="media-body">
+                                                <div class="media-meta">
+                                                    6th June 2016
+                                                    <span class="divider">/</span><a href="#"><i class="fa fa-comment"></i>27</a>
+                                                </div>
+                                                <h4 class="media-heading"><a href="#">Standard Blog Post Header</a></h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- tab 2 -->
+                                <div class="tab-pane fade in active" id="tab-s2">
+                                    <div class="recent-post">
+                                        <div class="media">
+                                            <a class="pull-left media-link" href="#">
+                                                <img class="media-object" src="assets/img/preview/blog/recent-post-70x70x4.jpg" alt="">
+                                                <i class="fa fa-plus"></i>
+                                            </a>
+                                            <div class="media-body">
+                                                <div class="media-meta">
+                                                    6th June 2016
+                                                    <span class="divider">/</span><a href="#"><i class="fa fa-comment"></i>27</a>
+                                                </div>
+                                                <h4 class="media-heading"><a href="#">Standard Blog Post Header</a></h4>
+                                            </div>
+                                        </div>
+                                        <div class="media">
+                                            <a class="pull-left media-link" href="#">
+                                                <img class="media-object" src="assets/img/preview/blog/recent-post-70x70x1.jpg" alt="">
+                                                <i class="fa fa-plus"></i>
+                                            </a>
+                                            <div class="media-body">
+                                                <div class="media-meta">
+                                                    6th June 2016
+                                                    <span class="divider">/</span><a href="#"><i class="fa fa-comment"></i>27</a>
+                                                </div>
+                                                <h4 class="media-heading"><a href="#">Standard Blog Post Header</a></h4>
+                                            </div>
+                                        </div>
+                                        <div class="media">
+                                            <a class="pull-left media-link" href="#">
+                                                <img class="media-object" src="assets/img/preview/blog/recent-post-70x70x2.jpg" alt="">
+                                                <i class="fa fa-plus"></i>
+                                            </a>
+                                            <div class="media-body">
+                                                <div class="media-meta">
+                                                    6th June 2016
+                                                    <span class="divider">/</span><a href="#"><i class="fa fa-comment"></i>27</a>
+                                                </div>
+                                                <h4 class="media-heading"><a href="#">Standard Blog Post Header</a></h4>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                            <a class="btn btn-theme btn-theme-transparent btn-theme-sm btn-block" href="#">More Posts</a>
+                        </div>
+                    </div>
+                    <!-- /widget tabs -->
+                    <!-- widget archives -->
+                    <div class="widget shadow car-categories">
+                        <h4 class="widget-title">Archives</h4>
+                        <div class="widget-content">
+                            <ul>
+                                <li>
+                                    <span class="arrow"><i class="fa fa-angle-down"></i></span>
+                                    <a href="#">January<span class="count">12</span></a>
+                                    <ul class="children">
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="arrow"><i class="fa fa-angle-down"></i></span>
+                                    <a href="#">February<span class="count">12</span></a>
+                                    <ul class="children">
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="arrow"><i class="fa fa-angle-down"></i></span>
+                                    <a href="#">March<span class="count">12</span></a>
+                                    <ul class="children">
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="arrow"><i class="fa fa-angle-down"></i></span>
+                                    <a href="#">April<span class="count">12</span></a>
+                                    <ul class="children">
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="arrow"><i class="fa fa-angle-up"></i></span>
+                                    <a href="#">May<span class="count">12</span></a>
+                                    <ul class="children active">
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sample Post Name</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- /widget archive -->
+                    <!-- widget flickr feed -->
+                    <div class="widget widget-flickr-feed">
+                        <h4 class="widget-title"><span>Flickr Images</span></h4>
+                        <ul>
+                            <li><a href="#"><img src="assets/img/preview/flickr/flickr-feed-8.jpg" alt="//"></a></li>
+                            <li><a href="#"><img src="assets/img/preview/flickr/flickr-feed-9.jpg" alt="//"></a></li>
+                            <li><a href="#"><img src="assets/img/preview/flickr/flickr-feed-10.jpg" alt="//"></a></li>
+                            <li><a href="#"><img src="assets/img/preview/flickr/flickr-feed-11.jpg" alt="//"></a></li>
+                            <li><a href="#"><img src="assets/img/preview/flickr/flickr-feed-12.jpg" alt="//"></a></li>
+                            <li><a href="#"><img src="assets/img/preview/flickr/flickr-feed-13.jpg" alt="//"></a></li>
+                            <li><a href="#"><img src="assets/img/preview/flickr/flickr-feed-14.jpg" alt="//"></a></li>
+                            <li><a href="#"><img src="assets/img/preview/flickr/flickr-feed-15.jpg" alt="//"></a></li>
+                        </ul>
+                    </div>
+                    <!-- /widget flickr feed -->
+                    <!-- widget twitter -->
+                    <div class="widget shadow widget-twitter">
+                        <h4 class="widget-title"><span>Twitter</span></h4>
+                        <div class="widget-content">
+                            <div class="recent-tweets">
+                                <div class="media">
+                                    <div class="media-body">
+                                        <p><i class="fa fa-twitter"></i> <a href="#">@twittername</a> At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                                        <small>1 minute ago</small>
+                                    </div>
+                                </div>
+                                <div class="media">
+                                    <div class="media-body">
+                                        <p><i class="fa fa-twitter"></i> <a href="#">@twittername</a> At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                                        <small>1 minute ago</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /widget twitter -->
+                    <!-- widget tag cloud -->
+                    <div class="widget widget-tag-cloud">
+                        <h4 class="widget-title"><span>Tags</span></h4>
+                        <ul>
+                            <li><a href="#">Clean</a></li>
+                            <li><a href="#">Modern</a></li>
+                            <li><a href="#">Business</a></li>
+                            <li><a href="#">Corporate</a></li>
+                            <li><a href="#">Minimal</a></li>
+                            <li><a href="#">Photography</a></li>
+                            <li><a href="#">Fashion</a></li>
+                            <li><a href="#">One Page</a></li>
+                            <li><a href="#">Personal</a></li>
+                            <li><a href="#">Shop</a></li>
+                            <li><a href="#">Elegant</a></li>
+                        </ul>
+                    </div>
+                    <!-- /widget tag cloud -->
+                    </aside>
+                    <!-- /SIDEBAR -->
+
+                </div>
+            </div>
+        </section>
+        <!-- /PAGE WITH SIDEBAR -->
+
+    </div>
+    <!-- /CONTENT AREA -->
+
+    <!-- FOOTER -->
+    <footer class="footer dark">
+        <div class="footer-widgets md-padding-top md-padding-bottom">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="widget widget-about">
+                            <div class="logo--footer">
+                                <a href="#"><img src="assets/img/logo-themebox--footer.png" alt=""></a>
+                            </div>
+                            <p>Duis autem vel eum iriure dolor in
+                                hendrerit in vulputate velit esse
+                                molestie consequat, vel illum dolore
+                                eu feugiat nulla facilisis.</p>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="widget widget-categories">
+                            <h4 class="widget-title">Important Links</h4>
+                            <ul>
+                                <li><a href="#">About Us</a></li>
+                                <li><a href="#">Support</a></li>
+                                <li><a href="#">Contact Us</a></li>
+                                <li><a href="#">Premium Themes</a></li>
+                                <li><a href="#">Payment Methods</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="widget widget-categories">
+                            <h4 class="widget-title">Useful Links</h4>
+                            <ul>
+                                <li><a href="#">Themeforest</a></li>
+                                <li><a href="#">CodeCanyon</a></li>
+                                <li><a href="#">AudioJungle</a></li>
+                                <li><a href="#">VideoHive</a></li>
+                                <li><a href="#">PhotoDune</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="widget">
+                            <h4 class="widget-title">Get in touch</h4>
+                            <p>
+                                <strong>Email:</strong> info@sitename.com <br>
+                                <strong>Phone:</strong> +000-1111-2222
+                            </p>
+                            <ul class="social-icons">
+                                <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="footer-meta">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-sm-12">
+                        <div class="copyright">&copy; Copyright 2016 <br> Designed by jThemes Studio</div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- /FOOTER -->
+
+    <div id="to-top" class="to-top"><i class="fa fa-angle-up"></i></div>
+
+</div>
+<!-- /WRAPPER -->
+
+<!-- JS Global -->
+<script src="assets/plugins/jquery/jquery-1.11.1.min.js"></script>
+<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/plugins/bootstrap-select/js/bootstrap-select.min.js"></script>
+<script src="assets/plugins/superfish/js/superfish.min.js"></script>
+<script src="assets/plugins/prettyphoto/js/jquery.prettyPhoto.js"></script>
+<script src="assets/plugins/owl-carousel2/owl.carousel.min.js"></script>
+<script src="assets/plugins/jquery.sticky.min.js"></script>
+<script src="assets/plugins/jquery.easing.min.js"></script>
+<script src="assets/plugins/jquery.smoothscroll.min.js"></script>
+<script src="assets/plugins/swiper/js/swiper.jquery.min.js"></script>
+
+<!-- JS Page Level -->
+<script src="assets/js/theme.js"></script>
+
+<!--[if (gte IE 9)|!(IE)]><!-->
+<script src="assets/plugins/jquery.cookie.js"></script>
+<script src="assets/js/theme-config.js"></script>
+<!--<![endif]-->
+
+</body>
+</html>
